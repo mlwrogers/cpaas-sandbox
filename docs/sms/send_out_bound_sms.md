@@ -1,8 +1,18 @@
 ---
 layout: default
 title: Send simple outbound SMS
-parent: sms
+parent: SMS
 nav_order: 1
 ---
 
-Send simple outbound SMS placeholder
+A simple example of the Json used to send a single outbound SMS
+
+```js
+{
+    "clientMessageId": "123xyz",
+    "source": "<your_source_SID",
+    "destination": "<the_destination_E.164_number",
+    "text": "Show me the API is working!",
+    "encoding": "AUTO"
+}
+```

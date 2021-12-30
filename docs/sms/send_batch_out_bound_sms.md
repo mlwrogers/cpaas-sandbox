@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Send batch outbound SMS
-parent: sms
+parent: SMS
 nav_order: 2
 ---
 

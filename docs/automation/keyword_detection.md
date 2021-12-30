@@ -13,7 +13,7 @@ We start by creating and activating the workflow.
 We do this using an HTTPs POST request to our CPaaS platform with a simple JSON body.  As soon as the API call is made and the status set to _enabled_, the workflow is active and ready for use.
 To try this out, keep scrolling...If you're the developer then the JSON used in the POST request to create the workflow definition would look a bit like this:
 
-```JSON
+```json
 {
     "subAccountId": "<yourSubAccountId>",
     "trigger": "inbound_chat_apps",

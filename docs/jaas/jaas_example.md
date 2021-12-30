@@ -1,7 +1,7 @@
 ---
 layout: default
 title: JaaS example
-parent: jaas
+parent: JaaS
 nav_order: 1
 ---
 

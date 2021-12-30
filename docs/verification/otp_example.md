@@ -1,7 +1,7 @@
 ---
 layout: default
 title: OTP example
-parent: verification
+parent: Verification
 nav_order: 1
 ---
 

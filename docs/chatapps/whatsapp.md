@@ -1,7 +1,7 @@
 ---
 layout: default
 title: WhatsApp
-parent: chatapps
+parent: ChatApps
 nav_order: 1
 ---
 

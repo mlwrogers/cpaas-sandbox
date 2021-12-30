@@ -6,7 +6,7 @@ description: "MR CPaaS projects and demos site built using a responsive Jekyll t
 permalink: /
 ---
 
-## Welcome to an 8x8 CPaaS demo page!
+# Welcome to an 8x8 CPaaS demo page!
 This page has been put together by the EMEA solution engineering team to help showcase all the different APIs we have.
 
 So, what _do_ we have?
