@@ -21,6 +21,6 @@ So, what _do_ we have?
 - Video Interaction
 - Number Lookup
 
-... and of course we also have [**_JaaS_**!](./docs/jaas/) :saxophone:
+... and of course we also have [**_JaaS_**!](./docs/jaas/) 🎷
 
 Which one will you look at first?
