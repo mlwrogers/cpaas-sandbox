@@ -1,3 +1,10 @@
+---
+layout: default
+title: MD Jekyll Tips
+nav_order: 2
+description: "original jekyl github pages help file"
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mlwrogers/pages-sandbox/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
