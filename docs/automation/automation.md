@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Automation
-nav_order: 2
+nav_order: 3
 has_children: true
 permalink: /docs/automation
 ---
