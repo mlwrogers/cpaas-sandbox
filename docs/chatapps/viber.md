@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Viber
-parent: ChatApps
+parent: chatapps
 nav_order: 2
 ---
 
