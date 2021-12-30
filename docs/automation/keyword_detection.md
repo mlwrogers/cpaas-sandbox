@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Keyword detection
-parent: automation
+parent: Automation
 nav_order: 1
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Simple Auto Reply demo
-parent: automation
+parent: Automation
 nav_order: 2
 ---
 
