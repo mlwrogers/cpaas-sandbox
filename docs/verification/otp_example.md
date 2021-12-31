@@ -1,9 +1,11 @@
 ---
 layout: default
 title: OTP example
-parent: Verification
+parent: Mobile Verification
 nav_order: 1
 ---
+
+# Mobile Verification API
 
 An example of the JSON body used to generate and send a code via SMS.
 
@@ -30,3 +32,7 @@ An example of the JSON body used to generate and send a code via SMS.
      "resetSession": false
 }
 ```
+
+## Building a simple Mobile Verification App
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ft6-aOSxzmo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -6,21 +6,12 @@ description: "MR CPaaS projects and demos site built using a responsive Jekyll t
 permalink: /
 ---
 
-# Welcome to an 8x8 CPaaS demo page!
-This page has been put together by the EMEA solution engineering team to help showcase all the different APIs we have.
+# 8x8 CPaaS: hints, tips and demos!
+This page has been put together by the 8x8 CPaaS Solution Engineering team to help educate and demonstrate all the different APIs we have.
 
 So, what _do_ we have?
+First of all you can find all of our official documentation on the [8x8 developer portal.](https://developer.8x8.com/)
 
-- [Automation](./docs/automation/)
-- [SMS](./docs/sms/)
-- [ChatApps](./docs/chatapps/)
-- [Verification (One Time Password)](./docs/verification/)
-- Voice V1
-- Number Masking
-- Voice IVR
-- Video Interaction
-- Number Lookup
-
-... and of course we also have [**_JaaS_**!](./docs/jaas/) 🎷
+The following sections all contain easy to consume code examples and demonstrations.
 
 Which one will you look at first?
