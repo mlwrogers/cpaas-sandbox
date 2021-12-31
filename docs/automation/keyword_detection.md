@@ -75,12 +75,11 @@ To try this out, keep scrolling...If you're the developer then the JSON used in 
 
 There are two QR codes below, one of them includes a 5 digit code as part of the pre-filled text.  We are using that code for a simple keyword detection, A different message is sent back based on if the keyword was used in the original message or not.
 
-<p style="text-align: center;">Scan (or click) this QR code to send us a WhatsApp message that <em>includes</em> the keyword and receive an automatic response!</p>
-<a href="https://wa.me/message/OFMUAVJ2CDYSP1">
-    <img src="./image_assets/OFMUAVJ2CDYSP1.png" alt="qrcode_reply" style="display: block; margin-left: auto; margin-right: auto;">
-</a>
+Scan (or click) this QR code to send us a WhatsApp message that _includes_ a specific keyword and receive an automatic response!
+![QR_with_keyword](https://mlwrogers.github.io/pages-sandbox/image_assets/OFMUAVJ2CDYSP1_with_keyword.png)
 
-<p style="text-align: center;">Scan (or click) this QR code to send us a WhatsApp message with <em>no</em> keyword and receive a different response!</p>
-<a href="https://wa.me/message/HK7HY7VU5EPYN1">
-    <img src="./image_assets/HK7HY7VU5EPYN1.png" alt="qrcode_no_reply" style="display: block; margin-left: auto; margin-right: auto;">
-</a>
+Scan (or click) this QR code to send us a WhatsApp message with _no_ keyword and receive a different response!</p>
+![QR_without_keyword](https://mlwrogers.github.io/pages-sandbox/image_assets/HK7HY7VU5EPYN1_without_keyword.png)
+
+size test - 70%
+![QR_with_keyword](https://mlwrogers.github.io/pages-sandbox/image_assets/OFMUAVJ2CDYSP1_with_keyword.png){:height="70%" width="70%"}

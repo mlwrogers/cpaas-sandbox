@@ -23,7 +23,7 @@ A quick an easy way to use universal links from your website is to just make a f
 This button will initiate a conversation by sending a message into the 8x8 Converse Sandbox, from which an agent can respond and continue to have a 2-way conversation with the customer via WhatsApp.
 _Note: for more information on 8x8 Converse, take a look at the overview on the [CPaaS documentation site here.](https://developer.8x8.com/connect/docs/converse-overview)_
 
-[Converse](https://wa.me/6569507977?text=Hi%2C+I+need+support.+Could+you+assist+me%3F){: .btn .btn-green }
+_Try Me_ 👉 [Converse](https://wa.me/6569507977?text=Hi%2C+I+need+support.+Could+you+assist+me%3F){: .btn .btn-green }
 
 ```js
 // The link used behind this button looks like this:
@@ -33,7 +33,7 @@ https://wa.me/6569507977?text=Hi%2C+I+need+support.+Could+you+assist+me%3F
 This button will initiate a conversation by sending a message into the 8x8 CPaaS Zendesk Account, from which a support agent can respond back and forth with the customer.
 _Note: for more information on our WhatsApp and Zendesk integration, take a look on the [CPaaS documentation site here.](https://developer.8x8.com/connect/docs/zendesk-support)_
 
-[Zendesk](https://wa.me/639216812646?text=Hi%208x8%20team%2C%20I%20need%20some%20technical%20assistance%20%F0%9F%9B%A0%EF%B8%8F%20.%20Please%20can%20you%20help%20me%3F%20%F0%9F%99%8F){: .btn .btn-blue }
+_Try Me_ 👉 [Zendesk](https://wa.me/639216812646?text=Hi%208x8%20team%2C%20I%20need%20some%20technical%20assistance%20%F0%9F%9B%A0%EF%B8%8F%20.%20Please%20can%20you%20help%20me%3F%20%F0%9F%99%8F){: .btn .btn-blue }
 
 ```js
 // The link used behind this button looks like this:
@@ -46,13 +46,12 @@ Another great way to help customers initiate conversations with your business vi
 Scanning this QR code will initiate a conversation by sending a message into the 8x8 Converse Sandbox, from which an agent can respond and continue to have a 2-way conversation with the customer via WhatsApp.
 _Note: This QR was generated using the QR tool within the WhatsApp Manager which is also shortening the URL to obfuscate the WhatsApp business account Phone number.  There are also many 3rd party QR generator tools available_
 
-![](./image_assets/UTG5HWVNLLZ7F1_zendesk_demo.png)
+![Initiate msg to Converse](https://mlwrogers.github.io/pages-sandbox/image_assets/UTG5HWVNLLZ7F1_converse_demo.png)
 
 ```js
 // The link used behind this QR code looks like this:
 https://wa.me/message/UTG5HWVNLLZ7F1
 ```
 
-![Initiate msg to Converse](https://mlwrogers.github.io/pages-sandbox/image_assets/UTG5HWVNLLZ7F1_zendesk_demo.png)
-
-![](./pages-sandbox/image_assets/UTG5HWVNLLZ7F1_zendesk_demo.png)
+Does this path work too?
+![Initiate msg to Converse](../image_assets/UTG5HWVNLLZ7F1_converse_demo.png)
