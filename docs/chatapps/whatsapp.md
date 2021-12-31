@@ -46,8 +46,13 @@ Another great way to help customers initiate conversations with your business vi
 Scanning this QR code will initiate a conversation by sending a message into the 8x8 Converse Sandbox, from which an agent can respond and continue to have a 2-way conversation with the customer via WhatsApp.
 _Note: This QR was generated using the QR tool within the WhatsApp Manager which is also shortening the URL to obfuscate the WhatsApp business account Phone number.  There are also many 3rd party QR generator tools available_
 
-![Image](./image_assets/UTG5HWVNLLZ7F1_zendesk_demo.png)
+![](./image_assets/UTG5HWVNLLZ7F1_zendesk_demo.png)
+
 ```js
 // The link used behind this QR code looks like this:
 https://wa.me/message/UTG5HWVNLLZ7F1
 ```
+
+![Initiate msg to Converse](https://mlwrogers.github.io/pages-sandbox/image_assets/UTG5HWVNLLZ7F1_zendesk_demo.png)
+
+![](./pages-sandbox/image_assets/UTG5HWVNLLZ7F1_zendesk_demo.png)

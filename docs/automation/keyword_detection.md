@@ -77,10 +77,10 @@ There are two QR codes below, one of them includes a 5 digit code as part of the
 
 <p style="text-align: center;">Scan (or click) this QR code to send us a WhatsApp message that <em>includes</em> the keyword and receive an automatic response!</p>
 <a href="https://wa.me/message/OFMUAVJ2CDYSP1">
-    <img src="./images/OFMUAVJ2CDYSP1.png" alt="qrcode_reply" style="display: block; margin-left: auto; margin-right: auto;">
+    <img src="./image_assets/OFMUAVJ2CDYSP1.png" alt="qrcode_reply" style="display: block; margin-left: auto; margin-right: auto;">
 </a>
 
 <p style="text-align: center;">Scan (or click) this QR code to send us a WhatsApp message with <em>no</em> keyword and receive a different response!</p>
 <a href="https://wa.me/message/HK7HY7VU5EPYN1">
-    <img src="./images/HK7HY7VU5EPYN1.png" alt="qrcode_no_reply" style="display: block; margin-left: auto; margin-right: auto;">
+    <img src="./image_assets/HK7HY7VU5EPYN1.png" alt="qrcode_no_reply" style="display: block; margin-left: auto; margin-right: auto;">
 </a>
