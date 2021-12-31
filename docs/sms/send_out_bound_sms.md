@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Send simple outbound SMS
+title: Send single outbound SMS
 parent: SMS
 nav_order: 1
 ---

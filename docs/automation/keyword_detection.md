@@ -2,10 +2,9 @@
 layout: default
 title: Keyword detection
 parent: Automation
-nav_order: 1
 ---
 
-## Keyword Detection Demo
+# Keyword Detection Demo
 
 This will demonstrate how to create a simple workflow that when enabled will trigger each time an inbound message is received by our WhatsApp sandbox and then automatically send a reply back to the sender.
 We start by creating and activating the workflow.
@@ -71,7 +70,7 @@ To try this out, keep scrolling...If you're the developer then the JSON used in 
 }
 ```
 
-#### Try it out yourself!
+## Try it out yourself!
 
 There are two QR codes below, one of them includes a 5 digit code as part of the pre-filled text.  We are using that code for a simple keyword detection, A different message is sent back based on if the keyword was used in the original message or not.
 

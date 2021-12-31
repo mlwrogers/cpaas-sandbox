@@ -44,7 +44,7 @@ _Note: for more information on our WhatsApp and Zendesk integration, take a look
 
 **Try Me**👇
 
-[Zendesk](https://wa.me/639216812646?text=Hi%208x8%20team%2C%20I%20need%20some%20technical%20assistance%20%F0%9F%9B%A0%EF%B8%8F%20.%20Please%20can%20you%20help%20me%3F%20%F0%9F%99%8F){: .btn .btn-blue }
+[Zendesk](https://wa.me/639212335185?text=Hi%208x8%20team%2C%20I%20need%20some%20technical%20assistance%20%F0%9F%9B%A0%EF%B8%8F%20.%20Please%20can%20you%20help%20me%3F%20%F0%9F%99%8F){: .btn .btn-blue }
 
 ```js
 // The pre-filled message used to initiate this interaction is:  Hi 8x8 team, I need some technical assistance 🛠️ . Please can you help me? 🙏

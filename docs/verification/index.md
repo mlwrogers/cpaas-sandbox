@@ -1,9 +1,12 @@
 ---
 layout: default
-title: Verification
+title: Mobile Verification
 nav_order: 6
 has_children: true
 permalink: /docs/verification
 ---
 
-Verification page placeholder
+# The Mobile Verification API
+
+Generate, send and verify SMS and voice one-time passwords (OTP) in two smart API requests.
+All the official SMS documentation lives on our developer portal here: [](https://developer.8x8.com/connect/reference/page)

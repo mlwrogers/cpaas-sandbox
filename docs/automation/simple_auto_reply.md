@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Simple Auto Reply demo
+title: Simple Auto Reply
 parent: Automation
-nav_order: 2
 ---
 
 ## A simple Auto-Reply Demo
 
-This will demonstrate how to create a simple workflow that sends an auto-reply whenever an inbound msg is received.
+This will demonstrate how to create a very simple workflow that sends an auto-reply whenever an inbound SMS msg is received.
