@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Send single outbound SMS
+title: Send single SMS
 parent: SMS
 nav_order: 1
 ---
 
-A simple example of the Json used to send a single outbound SMS
+A simple example of the JSON body used to send a single SMS.
 
 ```js
 {
