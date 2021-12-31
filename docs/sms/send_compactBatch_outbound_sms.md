@@ -5,6 +5,8 @@ parent: SMS
 nav_order: 3
 ---
 
+# Send a batch of SMS using a template (_compact_)
+
 The JSON body used to send a batch of SMS to multiple destinations using a single template.
 
 ```js

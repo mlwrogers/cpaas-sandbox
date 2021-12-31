@@ -5,6 +5,8 @@ parent: SMS
 nav_order: 2
 ---
 
+# Send a batch of SMS with different content
+
 The JSON body used to send a batch of SMS to multiple destinations, each with its own message.
 
 ```js

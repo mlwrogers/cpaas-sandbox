@@ -5,6 +5,8 @@ parent: SMS
 nav_order: 1
 ---
 
+# Send a single SMS
+
 A simple example of the JSON body used to send a single SMS.
 
 ```js

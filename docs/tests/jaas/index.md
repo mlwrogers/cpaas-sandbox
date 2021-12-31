@@ -7,4 +7,4 @@ permalink: /docs/jaas
 ---
 
 Jitsi as a Service, affectionately know as JaaS 🎷, enables you to develop and integrate Jitsi Meetings functionality directly into your web and mobile applications.
-All the official JaaS documentation lives on our developer portal here: [](https://developer.8x8.com/jaas/)
+All the official JaaS documentation lives on our developer portal here: [https://developer.8x8.com/jaas/](https://developer.8x8.com/jaas/)
