@@ -27,7 +27,6 @@ This button will initiate a conversation by sending a message into the 8x8 Conve
 _Note: for more information about 8x8 Converse, take a look at the overview at the [CPaaS documentation site here.](https://developer.8x8.com/connect/docs/converse-overview)_
 {:.text-purple-200}
 
-<div>
 **Try Me**👇
 [Converse](https://wa.me/6569507977?text=Hi%208x8%20team%2C%20I'd%20love%20to%20chat%20with%20someone%20about%20your%20APIs%20to%20help%20boost%20my%20customer%20engagement!%20%F0%9F%9A%80){: .btn .btn-green }
 
@@ -36,14 +35,12 @@ _Note: for more information about 8x8 Converse, take a look at the overview at t
 // The text is url-encoded and the final link used behind this button looks like this:
 "https://wa.me/6569507977?text=Hi%208x8%20team%2C%20I'd%20love%20to%20chat%20with%20someone%20about%20your%20APIs%20to%20help%20boost%20my%20customer%20engagement!%20%F0%9F%9A%80"
 ```
-</div>
 
 This button will initiate a conversation by sending a message into the 8x8 CPaaS Zendesk Account, from which a support agent can respond back and forth with the customer.
 
 _Note: for more information on our WhatsApp and Zendesk integration, take a look at the [CPaaS documentation site here.](https://developer.8x8.com/connect/docs/zendesk-support)_
 {:.text-purple-200}
 
-<div>
 **Try Me**👇
 [Zendesk](https://wa.me/639216812646?text=Hi%208x8%20team%2C%20I%20need%20some%20technical%20assistance%20%F0%9F%9B%A0%EF%B8%8F%20.%20Please%20can%20you%20help%20me%3F%20%F0%9F%99%8F){: .btn .btn-blue }
 
@@ -52,14 +49,12 @@ _Note: for more information on our WhatsApp and Zendesk integration, take a look
 // The text is url-encoded and the final link used behind this button looks like this:
 "https://wa.me/639216812646?text=Hi%208x8%20team%2C%20I%20need%20some%20technical%20assistance%20%F0%9F%9B%A0%EF%B8%8F%20.%20Please%20can%20you%20help%20me%3F%20%F0%9F%99%8F"
 ```
-</div>
 
 ## QR Codes
 Another great way to help customers initiate conversations with your business via WhatsApp is by using QR codes.  The great thing about a QR code is that you can make a single QR image work for both desktop and mobile users.  As the majority of people use WhatsApp only on their mobile device, if they're viewing your QR code on their desktop/laptop computer they can simply scan it with their mobile phone camera! If they are viewing the QR code on the mobile itself, you can make the QR image clickable and invoke the same user experience.
 **Try it out!**
 
 Scanning this QR code will initiate a conversation by sending a message into the 8x8 Converse Sandbox, from which an agent can respond and continue to have a 2-way conversation with the customer via WhatsApp.
-<div>
 ![Initiate msg to Converse](https://mlwrogers.github.io/pages-sandbox/image_assets/UTG5HWVNLLZ7F1_converse_demo.png)
 
 ```js
@@ -67,7 +62,6 @@ Scanning this QR code will initiate a conversation by sending a message into the
 // The final link used behind this QR code looks like this:
 https://wa.me/message/UTG5HWVNLLZ7F1
 ```
-</div>
 
 _Note: This QR was generated using the QR tool available within the WhatsApp Manager.  This also provides a URL shortening service to obfuscate the WhatsApp business account Phone number.  If you want to create **funky** QR's with colours and logos this is also possible using one of the many 3rd party QR generator tools available._
 {:.text-purple-200}
