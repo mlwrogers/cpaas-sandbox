@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Simple auto reply, WhatsAPp
+title: Auto reply, WhatsAPp
 parent: Automation
 ---
 

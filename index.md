@@ -10,7 +10,7 @@ permalink: /
 
 &nbsp;
 
-# 8x8 CPaaS: hints, tips and demos!
+# CPaaS: hints, tips, demos & code!
 
 &nbsp;
 &nbsp;

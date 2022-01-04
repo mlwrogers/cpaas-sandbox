@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Simple auto reply, SMS
+title: Auto reply, SMS
 parent: Automation
 ---
 
