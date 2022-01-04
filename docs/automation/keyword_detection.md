@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Keyword detection
-content: sebastian
+title: Keyword detection, WhatsApp
 parent: Automation
 ---
 
@@ -16,12 +15,12 @@ It would look a bit like this:
 
 ```json
 {
-    "subAccountId": "InternalDemoCPaaS_ChatApps",
+    "subAccountId": "<yourSubAccountId",
     "trigger": "inbound_chat_apps",
     "status": "enabled",
     "definition":
     {
-        "name": "MR_keyword_demo_v3",
+        "name": "keyword_example",
         "steps":
         [
             {
@@ -29,7 +28,7 @@ It would look a bit like this:
                 "stepType": "Branch",
                 "selectNextStep":
                 {
-                    "send_ok_reply_ca_msg": "{{stringContains(data.payload.content.text, 'CDYSP1')}}",
+                    "send_ok_reply_ca_msg": "{{stringContains(data.payload.content.text, '<yourKeyword>')}}",
                 }
             },
             {
@@ -37,7 +36,7 @@ It would look a bit like this:
                 "stepType": "ChatAppsMessage",
                 "inputs":
                 {
-                    "subAccountId": "InternalDemoCPaaS_ChatApps",
+                    "subAccountId": "<yourSubAccountId",
                     "user":
                     {
                         "msisdn": "{{data.payload.user.msisdn}}"

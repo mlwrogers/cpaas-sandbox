@@ -13,8 +13,8 @@ The JSON body used to send a batch of SMS to multiple destinations using a singl
 {
   "clientBatchId": "campaignReach001",
   "destinations": [
-    "+447764836779",
-    "+447585350561"
+    "+441234567899",
+    "+449876543211"
   ],
   "template": {
     "source": "8x8Dev",

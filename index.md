@@ -12,7 +12,7 @@ permalink: /
 This page has been put together by the 8x8 CPaaS Solution Engineering team to help educate and demonstrate all the different APIs we have.
 
 So, what _do_ we have?
-First of all you can find all of our official documentation on the [8x8 developer portal.](https://developer.8x8.com/)
+First of all you can find all of our official documentation on the [8x8 developer portal: https://developer.8x8.com/](https://developer.8x8.com/)
 
 The following sections all contain easy to consume code examples and demonstrations.
 

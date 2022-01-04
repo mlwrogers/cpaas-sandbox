@@ -21,6 +21,7 @@ viber://calls - opens calls tab
 These links can obviously be used in any number of places or hidden behind simple website buttons.  Here are a few working examples which will open up your own Viber account ready to send a message to a specific Viber business contact.
 
 ## Buttons
+
 A quick and easy way to use universal links from your website is to just make a few simple buttons.
 **Try it out!**
 

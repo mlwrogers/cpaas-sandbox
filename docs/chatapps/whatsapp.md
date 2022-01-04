@@ -19,6 +19,7 @@ _Note: The pre-filled text must be url-encoded text.  There are many 3rd party t
 These links can obviously be used in any number of places or hidden behind simple website buttons.  Here are a few working examples which will open up your own WhatsApp account ready to send a message to a specific WhatsApp business contact with a pre-composed message.  
 
 ## Buttons
+
 A quick and easy way to use universal links from your website is to just make a few simple buttons.  You can use multiple links so as to have different pre-filled messages depending on the context, i.e. Support vs Sales vs Returns.
 **Try it out!**
 
@@ -53,6 +54,7 @@ _Note: for more information on our WhatsApp and Zendesk integration, take a look
 ```
 
 ## QR Codes
+
 Another great way to help customers initiate conversations with your business via WhatsApp is by using QR codes.  The great thing about a QR code is that you can make a single QR image work for both desktop and mobile users.  As the majority of people use WhatsApp only on their mobile device, if they're viewing your QR code on their desktop/laptop computer they can simply scan it with their mobile phone camera! If they are viewing the QR code on the mobile itself, you can make the QR image clickable and invoke the same user experience.
 **Try it out!**
 
