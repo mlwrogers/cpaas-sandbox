@@ -1,16 +1,17 @@
 ---
 layout: default
-title: Simple Auto Reply
+title: Simple auto reply, SMS
 parent: Automation
 ---
 
-# A simple Auto-Reply Demo
+# A simple Auto-Reply Demo for SMS
 
 This will demonstrate how to create a very simple workflow that sends an auto-reply whenever an inbound SMS msg is received.
+For you developers:
 
-For you developers, the JSON body looks like this:
-
+HTTP POST request to: `https://automation.8x8.com/api/v1/accounts/<yourSubAccountId>/definition`
 ```json
+// JSON body
 {
     "subAccountId": "<yourSubAccountId>",
     "trigger": "inbound_sms",

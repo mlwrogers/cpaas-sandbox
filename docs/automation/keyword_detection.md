@@ -10,10 +10,11 @@ This will demonstrate how to create a simple workflow that when enabled will tri
 We start by creating and activating the workflow.
 
 We do this using an HTTPs POST request to our CPaaS platform with a simple JSON body.  As soon as the API call is made and the status set to _enabled_, the workflow is active and ready for use.
-To quickly try this out with our working example, keep scrolling...If you're the developer then you can also take a look at the JSON used in the POST request to create the workflow definition.
-It would look a bit like this:
+To quickly try this out with our working example, keep scrolling...If you're the developer then you can also take a look at the example POST request to create this workflow definition.
 
+HTTP POST request to: `https://automation.8x8.com/api/v1/accounts/<yourSubAccountId>/definition`
 ```json
+// JSON body
 {
     "subAccountId": "<yourSubAccountId",
     "trigger": "inbound_chat_apps",
