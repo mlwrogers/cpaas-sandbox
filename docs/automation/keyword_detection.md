@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Keyword detection
+content: sebastian
 parent: Automation
 ---
 
@@ -15,12 +16,12 @@ It would look a bit like this:
 
 ```json
 {
-    "subAccountId": "<yourSubAccountId>",
+    "subAccountId": "InternalDemoCPaaS_ChatApps",
     "trigger": "inbound_chat_apps",
     "status": "enabled",
     "definition":
     {
-        "name": "keyword_demo"
+        "name": "MR_keyword_demo_v3",
         "steps":
         [
             {
@@ -28,8 +29,7 @@ It would look a bit like this:
                 "stepType": "Branch",
                 "selectNextStep":
                 {
-                    "send_ok_reply_ca_msg": "{{stringContains(data.payload.content.text, 'keyword')}}",
-                    "send_nok_reply_ca_msg": null
+                    "send_ok_reply_ca_msg": "{{stringContains(data.payload.content.text, 'CDYSP1')}}",
                 }
             },
             {
@@ -37,7 +37,7 @@ It would look a bit like this:
                 "stepType": "ChatAppsMessage",
                 "inputs":
                 {
-                    "subAccountId": "<yourSubAccountId>",
+                    "subAccountId": "InternalDemoCPaaS_ChatApps",
                     "user":
                     {
                         "msisdn": "{{data.payload.user.msisdn}}"
@@ -45,24 +45,7 @@ It would look a bit like this:
                     "type": "text",
                     "content":
                     {
-                        "text": "Thanks for trying our Automation API demo, keyword detected!"
-                    }
-                }
-            },
-            {
-                "id": "send_nok_reply_ca_msg",
-                "stepType": "ChatAppsMessage",
-                "inputs":
-                {
-                    "subAccountId": "<yourSubAccountId>",
-                    "user":
-                    {
-                        "msisdn": "{{data.payload.user.msisdn}}"
-                    },
-                    "type": "text",
-                    "content":
-                    {
-                        "text": "No keyword detected. Thanks for trying our Automation API demo!"
+                        "text": "Thank you for trying out our Automation API demo, you sent the correct keyword!"
                     }
                 }
             }
@@ -73,12 +56,12 @@ It would look a bit like this:
 
 ## Try it out yourself!
 
-There are two QR codes below, one of them includes a 5 digit code as part of the pre-filled text.  We are using that code for a simple keyword detection, A different message is sent back based on if the keyword was used in the original message or not.
+There are two QR codes below, one of them includes a 5 digit code as part of the pre-filled text.  We are using that code for a simple keyword detection.  For this demonstration we are using a random set of characters as the keyword, if the keyword is detected in the incoming message then an automatic reply is sent.  If no keyword is detected, no reply is sent.
 
 Scan (or click) this QR code to send us a WhatsApp message that _includes_ a specific keyword and receive an automatic response!
 
 ![QR_with_keyword](https://mlwrogers.github.io/pages-sandbox/image_assets/OFMUAVJ2CDYSP1_with_keyword.png)
 
-Scan (or click) this QR code to send us a WhatsApp message with _no_ keyword and receive a different response!
+Scan (or click) this QR code to send us a WhatsApp message with _no_ keyword, you will _not_ receive an automatic response!
 
 ![QR_without_keyword](https://mlwrogers.github.io/pages-sandbox/image_assets/HK7HY7VU5EPYN1_without_keyword.png)
