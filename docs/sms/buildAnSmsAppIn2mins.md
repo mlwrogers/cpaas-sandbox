@@ -9,7 +9,7 @@ nav_order: 4
 
 # A 2-way SMS app in less than 2 mins!
 
-Credit: This was contributed by [Filipe Leitao.](https://github.com/fleitao/the-8x8-collection/tree/main/sms-simple-2-way)
+Credit: This was contributed by [Filipe Leitao.](https://github.com/fleitao/)
 {: .fs-2 }
 
 This short guide will help you to build a simple node.js app that will enable you to send and receive SMS messages straight from your terminal/bash.
@@ -95,3 +95,7 @@ Once the message gets into your phone simply reply back and you'll see it coming
 ## See It In Action
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UbM2cLXkpQM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Extra Resources
+
+The node.js scripts used for this demonstration may be accessed from Filipe's Github repository [here.](https://github.com/fleitao/the-8x8-collection/tree/main/sms-simple-2-way)
