@@ -1,11 +1,13 @@
 ---
 layout: default
-title: OTP example
+title: Send a One Time Password
 parent: Mobile Verification
 nav_order: 1
 ---
 
-# Mobile Verification API
+**_DRAFT_**
+
+# How to send a One Time Password _(OTP)_ via SMS
 
 An example of the JSON body used to generate and send a code via SMS.
 
