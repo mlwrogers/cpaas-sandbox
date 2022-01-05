@@ -2,6 +2,7 @@
 layout: default
 title: Keyword detection, SMS
 parent: Automation
+nav_exclude: true
 ---
 
 **_DRAFT_**
