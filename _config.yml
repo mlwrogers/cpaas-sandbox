@@ -56,11 +56,14 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Pages-sandbox on GitHub":
-    - "//github.com/mlwrogers/pages-sandbox"
+  "CPaaS-sandbox on GitHub":
+    - "//github.com/mlwrogers/cpaas-sandbox"
+  "8x8 Developer site":
+    - "//https://developer.8x8.com/"
+  
 
 # Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: false
+aux_links_new_tab: true
 
 # Sort order for navigation links
 # nav_sort: case_insensitive # default, equivalent to nil
