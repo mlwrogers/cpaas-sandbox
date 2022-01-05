@@ -6,7 +6,7 @@ description: "MR CPaaS projects and demos site built using a responsive Jekyll t
 permalink: /
 ---
 
-![8x8_red_square_logo](https://mlwrogers.github.io/pages-sandbox/image_assets/8x8_RedSquare_LogoSml_RGB.png){: .float-left }
+![8x8_red_square_logo](https://mlwrogers.github.io/cpaas-sandbox/image_assets/8x8_RedSquare_LogoSml_RGB.png){: .float-left }
 
 &nbsp;
 
