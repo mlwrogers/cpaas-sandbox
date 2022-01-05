@@ -13,4 +13,5 @@ This guide will help you to build a simple node.js app enabling you to send and 
 Get started with the video then scroll down all of the nitty gritty.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UbM2cLXkpQM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-This demonstration was contributed by Filipe Leitao.{: .fs-2 }
+This demonstration was contributed by Filipe Leitao.
+{: .fs-2 }
