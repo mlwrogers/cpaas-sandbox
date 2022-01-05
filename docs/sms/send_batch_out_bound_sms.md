@@ -19,13 +19,13 @@ curl --location --request POST 'https://sms.8x8.com/api/v1/subaccounts/<yourSubA
           {
                "encoding": "AUTO",
                "destination": "+441234567899",
-               "text": "An SMS message for Alice",
+               "text": "An SMS message just for Alice",
                "clientMessageId": "1001"
           },
           {
                "encoding": "AUTO",
                "destination": "+449876543211",
-               "text": "An SMS message for Bob",
+               "text": "An SMS message just for Bob",
                "clientMessageId": "1002"
           }
      ],

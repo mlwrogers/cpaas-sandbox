@@ -16,7 +16,7 @@ curl --location --request POST 'https://sms.8x8.com/api/v1/subaccounts/<yourSubA
 --data-raw '{
     "clientMessageId": "123xyz",
     "source": "<your_source_SID>",
-    "destination": "<the_destination_E.164_number",
+    "destination": "+441234567899",
     "text": "Show us the value in APIs",
     "encoding": "AUTO"
 }'

@@ -15,27 +15,16 @@ curl --location --request POST 'https://sms.8x8.com/api/v1/subaccounts/<yourSubA
 --header 'Authorization: Bearer <yourApiKey>' \
 --header 'Content-Type: application/json' \
 --data-raw '{
-     "messages": [
-          {
-               "encoding": "AUTO",
-               "destination": "+441234567899",
-               "text": "An SMS message just for Alice",
-               "clientMessageId": "1001"
-          },
-          {
-               "encoding": "AUTO",
-               "destination": "+449876543211",
-               "text": "An SMS message just for Bob",
-               "clientMessageId": "1002"
-          }
-     ],
-     "template": {
-          "encoding": "AUTO",
-          "source": "8x8 Dev",
-          "text": "Message to the world"
-     },
-     "clientBatchId": "smsApiDemo",
-     "includeMessagesInResponse": false
+  "clientBatchId": "campaign001",
+  "destinations": [
+    "+441234567899",
+    "+449876543211"
+  ],
+  "template": {
+    "source": "8x8Dev",
+    "text": "Hello to everyone in the room!",
+  },
+  "includeMessagesInResponse": true
 }'
 
 ```
