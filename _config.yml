@@ -59,8 +59,8 @@ aux_links:
   "CPaaS-sandbox on GitHub":
     - "//github.com/mlwrogers/cpaas-sandbox"
   "8x8 Developer site":
-    - "//https://developer.8x8.com/"
-  
+    - "//developer.8x8.com/"
+
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
