@@ -9,8 +9,7 @@ nav_order: 1
 
 A simple example of the JSON body used to send a single SMS.
 
-```js
-
+```json
 curl --location --request POST 'https://sms.8x8.com/api/v1/subaccounts/<yourSubAccountId>/messages' \
 --header 'Authorization: Bearer <yourApiToken>' \
 --header 'Content-Type: application/json' \
