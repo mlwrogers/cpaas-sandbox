@@ -12,6 +12,7 @@ For you developers:
 HTTP POST request to: `https://automation.8x8.com/api/v1/accounts/<yourSubAccountId>/definition`
 ```json
 // JSON body
+
 {
     "subAccountId": "<yourSubAccountId>",
     "trigger": "inbound_sms",

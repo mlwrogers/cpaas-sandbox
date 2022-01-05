@@ -15,6 +15,7 @@ To quickly try this out with our working example, keep scrolling...If you're the
 HTTP POST request to: `https://automation.8x8.com/api/v1/accounts/<yourSubAccountId>/definition`
 ```json
 // JSON body
+
 {
     "subAccountId": "<yourSubAccountId",
     "trigger": "inbound_chat_apps",
