@@ -6,14 +6,22 @@ parent: ChatApps
 
 # Customer Care WhatsApp Service
 
-Credit: This was contributed by [Filipe Leitao.](https://github.com/fleitao/)
+Credit: Contributed by [Filipe Leitao.](https://github.com/fleitao/)
 {: .fs-2 }
 
-This short guide will help you to build a simple node.js app that simulates an airline customer care service using WhatsApp along with a _(simulated)_ chat bot.  To see it action, just skip past the details and check out the video at the bottom of this page!
+This short guide will help you to build a simple node.js app that simulates an airline customer care service using WhatsApp along with a _(simulated)_ chat bot.  
+
+## See It In Action
+
+Dive right in and watch this short demonstration before trying it out for yourself!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fgznkruPAtw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Build it yourself** 👇
 
 ## What You'll Need
 
-* [ngrok](https://ngrok.com/) (optional)
+* [ngrok](https://ngrok.com/) _(optional)_
 * [8x8 Connect Account](https://connect.8x8.com/login)
 * 8x8 WhatsApp Sandbox access
 * [node.js](https://nodejs.org/)
@@ -102,12 +110,6 @@ Are you having troubles with your booking ✈️, ticket 🎟️, or anything el
 At any time you can simulate a real human agent jumping into the conversation by executing the send message script:
 
 `$ node airline-send-whatsapp.js +447771649919 "Hi there, agent Smith here, how can I help you`
-
-## See It In Action
-
-If you are having troubles with the setup, Filipe recorded a video to walk through this example.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fgznkruPAtw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Extra Resources
 
