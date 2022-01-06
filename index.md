@@ -12,7 +12,6 @@ permalink: /
            margin-right: auto;"
     src="https://mlwrogers.github.io/cpaas-sandbox/image_assets/8x8_RedSquare_LogoSml_RGB.png"
     alt="8x8_red_square_logo">
-</img>
 &nbsp;
 
 # CPaaS: hints, tips, demos & code!
