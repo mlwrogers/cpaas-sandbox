@@ -6,15 +6,16 @@ description: "MR CPaaS projects and demos site built using a responsive Jekyll t
 permalink: /
 ---
 
-![8x8_red_square_logo](https://mlwrogers.github.io/cpaas-sandbox/image_assets/8x8_RedSquare_LogoSml_RGB.png){: .float-left }
-
+<img
+    style="display: block;
+           margin-left: auto;
+           margin-right: auto;"
+    src="https://mlwrogers.github.io/cpaas-sandbox/image_assets/8x8_RedSquare_LogoSml_RGB.png"
+    alt="8x8_red_square_logo">
+</img>
 &nbsp;
 
 # CPaaS: hints, tips, demos & code!
-
-&nbsp;
-&nbsp;
-&nbsp;
 
 This page has been put together by the 8x8 CPaaS Solution Engineering team to help educate and demonstrate all the different APIs we have.
 
