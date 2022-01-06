@@ -9,7 +9,7 @@ parent: ChatApps
 Credit: This was contributed by [Filipe Leitao.](https://github.com/fleitao/)
 {: .fs-2 }
 
-This short guide will help you to build a simple node.js app that simulates an airline customer care service using WhatsApp along with a _(simulated)_ chat bot.
+This short guide will help you to build a simple node.js app that simulates an airline customer care service using WhatsApp along with a _(simulated)_ chat bot.  To see it action, just skip past the details and check out the video at the bottom of this page!
 
 ## What You'll Need
 
