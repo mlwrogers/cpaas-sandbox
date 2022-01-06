@@ -9,11 +9,11 @@ parent: SMS
 Credit: Contributed by [Filipe Leitao.](https://github.com/fleitao/)
 {: .fs-2 }
 
-This short guide will help you to build a simple node.js app that will enable you to send and receive SMS messages straight from your terminal/bash.  To see it action, just skip past the details and check out the video at the bottom of this page!
+This short guide will help you to build a simple node.js app that will enable you to send and receive SMS messages straight from your terminal/bash.
 
 ## See It In Action
 
-Dive right in and watch this short demonstration before trying it out for yourself!
+Dive right in and watch this short video before trying it out for yourself!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UbM2cLXkpQM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
