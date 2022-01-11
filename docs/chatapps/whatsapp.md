@@ -5,15 +5,17 @@ parent: ChatApps
 nav_order: 1
 ---
 
+# How to link into WhatsApp
+
+Universal links are the preferred method of linking to a WhatsApp account, this is officially documented by WhatsApp [here.](https://faq.whatsapp.com/iphone/how-to-link-to-whatsapp-from-a-different-app/?lang=en)
+
 ## See It In Action
 
 Dive right in and watch this 30 second demonstration on how to initiate a WhatsApp conversation with your customers via a QR code before getting to the details and trying it out for yourself!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AtxO74GRW8o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# How to link into WhatsApp
-
-Universal links are the preferred method of linking to a WhatsApp account, this is officially documented by WhatsApp [here.](https://faq.whatsapp.com/iphone/how-to-link-to-whatsapp-from-a-different-app/?lang=en)
+# The basics
 
 The base structure for these links is extremely simple to use: `https://wa.me/<whatsappphonenumber>` where `<whatsappphonenumber>` is the full phone number, in international format, of _your_ WhatsApp business account.  i.e. The destination account that the message will be sent to.
 
