@@ -20,7 +20,7 @@ In the video above we used [Postman](https://www.postman.com/downloads/) to quic
 
 When you create a new Postman collection for your 8x8 API testing there are a couple initial steps you will need to do in order to get up & running:
 1. Grab your API key from the 8x8 Connect portal.
-  - If you've never done this before, you can take a look [here.](https://mlwrogers.github.io/cpaas-sandbox/docs/basics/apiKey.md)
+  - If you've never done this before, you can take a look [here.](https://mlwrogers.github.io/cpaas-sandbox/docs/basics/apiKey/)
 2. Add your API key as the Bearer Token for authenticating requests in postman.
   - For convenience, you may wish to add the token to your collection so that each new request you create simple inherits the same token as shown in the screenshot below.
   ![PostManAuthentication]()
