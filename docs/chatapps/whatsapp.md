@@ -38,9 +38,11 @@ _Note: for more information about 8x8 Converse, take a look at the overview at t
 
 [Converse](https://wa.me/6569507977?text=Hi%208x8%20team%2C%20I'd%20love%20to%20chat%20with%20someone%20about%20your%20APIs%20to%20help%20boost%20my%20customer%20engagement!%20%F0%9F%9A%80){: .btn .btn-green }
 
-The pre-filled message used to initiate this interaction is: "Hi 8x8 team, I'd love to chat with someone about your APIs to help boost my customer engagement! 🚀 "
-The text is url-encoded and the final link used behind this button looks like this:
-`https://wa.me/6569507977?text=Hi%208x8%20team%2C%20I'd%20love%20to%20chat%20with%20someone%20about%20your%20APIs%20to%20help%20boost%20my%20customer%20engagement!%20%F0%9F%9A%80`
+The pre-filled message used to initiate this interaction is: "Hi 8x8 team, I'd love to chat with someone about your APIs to help boost my customer engagement! 🚀 "  
+The text is url-encoded and the final link used behind this button looks like this:  
+```
+https://wa.me/6569507977?text=Hi%208x8%20team%2C%20I'd%20love%20to%20chat%20with%20someone%20about%20your%20APIs%20to%20help%20boost%20my%20customer%20engagement!%20%F0%9F%9A%80
+```
 
 This button will initiate a conversation by sending a message into the 8x8 CPaaS Zendesk Account, from which a support agent can respond back and forth with the customer.
 
@@ -51,9 +53,11 @@ _Note: for more information on our WhatsApp and Zendesk integration, take a look
 
 [Zendesk](https://wa.me/639212335185?text=Hi%208x8%20team%2C%20I%20need%20some%20technical%20assistance%20%F0%9F%9B%A0%EF%B8%8F%20.%20Please%20can%20you%20help%20me%3F%20%F0%9F%99%8F){: .btn .btn-blue }
 
-The pre-filled message used to initiate this interaction is:  Hi 8x8 team, I need some technical assistance 🛠️ . Please can you help me? 🙏
+The pre-filled message used to initiate this interaction is:  Hi 8x8 team, I need some technical assistance 🛠️ . Please can you help me? 🙏  
 The text is url-encoded and the final link used behind this button looks like this:
-`https://wa.me/639216812646?text=Hi%208x8%20team%2C%20I%20need%20some%20technical%20assistance%20%F0%9F%9B%A0%EF%B8%8F%20.%20Please%20can%20you%20help%20me%3F%20%F0%9F%99%8F`
+```
+https://wa.me/639216812646?text=Hi%208x8%20team%2C%20I%20need%20some%20technical%20assistance%20%F0%9F%9B%A0%EF%B8%8F%20.%20Please%20can%20you%20help%20me%3F%20%F0%9F%99%8F
+```
 
 ## QR Codes
 
@@ -65,9 +69,11 @@ This QR code will initiate a conversation by sending a message into the 8x8 Conv
 
 [![Initiate msg to Converse](https://mlwrogers.github.io/cpaas-sandbox/image_assets/UTG5HWVNLLZ7F1_converse_demo.png)](https://wa.me/message/UTG5HWVNLLZ7F1)
 
-The pre-filled message used behind this QR to initiate this interaction is:  Hi 8x8 team, I need some technical assistance 🛠️ . Please can you help me? 🙏
+The pre-filled message used behind this QR to initiate this interaction is:  Hi 8x8 team, I need some technical assistance 🛠️ . Please can you help me? 🙏  
 The final link used behind this QR code looks like this:
-`https://wa.me/message/UTG5HWVNLLZ7F1`
+```
+https://wa.me/message/UTG5HWVNLLZ7F1
+```
 
 _Note: This QR was generated using the QR tool available within the WhatsApp Manager.  This also provides a URL shortening service to obfuscate the WhatsApp business account Phone number.  If you want to create **funky** QR's with colours and logos this is also possible using one of the many 3rd party QR generator tools available._
 {:.text-purple-200}
