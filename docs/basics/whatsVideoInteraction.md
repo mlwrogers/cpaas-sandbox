@@ -4,7 +4,7 @@ title: Whats Video Interaction?
 parent: The Basics
 ---
 
-# Video Interaction (Vi), the gateway to 8x8 CPaaS.
+# Video Interaction
 
 8x8 Video Interaction product (Vi) is an enterprise tool designed to elevate customer engagement. It focuses on the one-to-one interactions through an out-of-the-box solution.  
 
