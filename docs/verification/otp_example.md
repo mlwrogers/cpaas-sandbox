@@ -7,7 +7,17 @@ nav_order: 1
 
 **_DRAFT_**
 
-# How to send a One Time Password _(OTP)_ via SMS
+Generate, send and verify SMS and voice one-time passwords (OTP) in two smart API requests!
+
+# See it Action
+
+watch this demonstration on how to build a simple Mobile Verification app in under 2 mins!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ft6-aOSxzmo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+# The Technical Part
+
+## How to send a One Time Password _(OTP)_ via SMS
 
 An example of the JSON body used to generate and send a code via SMS.
 
@@ -34,7 +44,3 @@ An example of the JSON body used to generate and send a code via SMS.
      "resetSession": false
 }
 ```
-
-## Building a simple Mobile Verification App
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ft6-aOSxzmo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
