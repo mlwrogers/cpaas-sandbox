@@ -2,6 +2,7 @@
 layout: default
 title: Where's my account ID?
 parent: The Basics
+nav_order: 1
 ---
 
 # Where to find your 8x8 Account ID and/or Sub Account ID  

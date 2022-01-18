@@ -2,6 +2,7 @@
 layout: default
 title: Where's my 8x8 API key
 parent: The Basics
+nav_order: 2
 ---
 
 # Where to get your 8x8 API key from
