@@ -11,7 +11,7 @@ baseurl: "/cpaas-sandbox" # the subpath of your site, e.g. /blog
 url: "https://mlwrogers.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "https://mlwrogers.github.io/pages-sandbox/image_assets/8x8_RedSquare_LogoSml_RGB.png"
+logo: "/image_assets/8x8_RedSquare_LogoSml_RGB.png"
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
