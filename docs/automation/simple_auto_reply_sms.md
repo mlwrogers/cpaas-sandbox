@@ -23,12 +23,12 @@ When you create a new Postman collection for your 8x8 API testing there are a co
   - If you've never done this before, you can take a look [here.](https://mlwrogers.github.io/cpaas-sandbox/docs/basics/apiKey/)
 2. Add your API key as the Bearer Token for authenticating requests in postman.
   - For convenience, you may wish to add the token to your collection so that each new request you create simple inherits the same token as shown in the screenshot below.
-  ![PostManAuthentication_p1](https://mlwrogers.github.io/cpaas-sandbox/Users/mrogers/Documents/GitHub/cpaas-sandbox/image_assets/screenshots/postman_BearerAuth_p1.png)
+  ![PostManAuthentication_p1](https://mlwrogers.github.io/cpaas-sandbox/image_assets/screenshots/postman_BearerAuth_p1.png)
 3. Create a new POST request in your 8x8 API collection.  
   - HTTP POST request to: `https://automation.8x8.com/api/v1/accounts/<yourAccountId>/definition`  
     You need to replace _<yourAccountId>_ with your real 8x8 accountId.  
 4. Set the authentication to inherit from your collection.  
-  ![PostManAuthentication_p2](https://mlwrogers.github.io/cpaas-sandbox/Users/mrogers/Documents/GitHub/cpaas-sandbox/image_assets/screenshots/postman_BearerAuth_p2.png)    
+  ![PostManAuthentication_p2](https://mlwrogers.github.io/cpaas-sandbox/image_assets/screenshots/postman_BearerAuth_p2.png)    
 5. Add the json body to the new POST request.  Be certain to changeout the placeholders in the template below with your real information.  
 ```json
 {

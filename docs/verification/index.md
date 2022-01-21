@@ -8,5 +8,7 @@ permalink: /docs/verification
 
 # The Mobile Verification API
 
-Generate, send and verify SMS and voice one-time passwords (OTP) in two smart API requests.
+
+The Verification API enables customers to implement 2FA (two-factor authentication) into their applications. It is often used to provide an extra layer of security for the user.
+
 All the official Mobile Verification documentation lives on our developer portal here: [https://developer.8x8.com/connect/reference/page](https://developer.8x8.com/connect/reference/page)
