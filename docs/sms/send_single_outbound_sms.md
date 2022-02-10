@@ -15,7 +15,7 @@ You may also wish to modify the _"source"_ value to use your own SID (Sender ID)
 Not sure where to find those values?  Check out the ['basics'](docs/basics/basics.md) section.
 
 ```json
-curl --location --request POST 'https://sms.8x8.com/api/v1/subaccounts/<yourSubAccountId>/messages' \
+curl --request POST 'https://sms.8x8.com/api/v1/subaccounts/<yourSubAccountId>/messages' \
 --header 'Authorization: Bearer <yourApiToken>' \
 --header 'Content-Type: application/json' \
 --data-raw '{
