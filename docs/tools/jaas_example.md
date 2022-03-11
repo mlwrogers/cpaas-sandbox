@@ -6,10 +6,6 @@ parent: Toolbox
 
 JaaS example page placeholder
 
-
-    <!DOCTYPE html>
-    <html>
-      <head>
         <script src='https://8x8.vc/external_api.js' async></script>
         <style>html, body, #jaas-container { height: 100%; }</style>
         <script type="text/javascript">
@@ -21,6 +17,4 @@ JaaS example page placeholder
             });
           }
         </script>
-      </head>
       <body><div id="jaas-container" /></body>
-    </html>
