@@ -1,8 +1,7 @@
 ---
 layout: default
 title: JaaS example
-parent: JaaS
-nav_order: 1
+parent: Toolbox
 ---
 
 JaaS example page placeholder
@@ -25,4 +24,3 @@ JaaS example page placeholder
       </head>
       <body><div id="jaas-container" /></body>
     </html>
-  
