@@ -1,6 +1,7 @@
 ---
 layout: default
 title: JaaS (Jitsi As A Service)
+nav_order: 9
 has_children: true
 permalink: /docs/jaas
 ---
