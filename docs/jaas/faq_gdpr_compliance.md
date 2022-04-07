@@ -1,6 +1,6 @@
 ---
 layout: default
-title: gdprCompliance
+title: Is JaaS GDPR Compliant?
 parent: JaaS_FAQ
 grand_parent: JaaS
 ---
