@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How can i keep track of the MAU count?
+title: mauCount
 parent: JaaS_FAQ
 grand_parent: JaaS
 ---

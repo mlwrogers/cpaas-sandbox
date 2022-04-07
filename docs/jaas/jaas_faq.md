@@ -2,7 +2,7 @@
 layout: default
 title: JaaS_FAQ
 has_children: true
-permalink: /docs/jaas/jaas_faq/
+parent: JaaS
 ---
 
 # JaaS FAQ

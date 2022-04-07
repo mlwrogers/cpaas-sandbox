@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Is Jitsi As A Service (JaaS) GDPR Compliant?
+title: gdprCompliance
 parent: JaaS_FAQ
 grand_parent: JaaS
 ---

@@ -8,4 +8,4 @@ permalink: /docs/jaas
 
 # Jitsi As A Service (JaaS)
 
-JaaS Hands!
+Lets learn some JaaS! 🎷
