@@ -5,7 +5,7 @@ parent: JaaS_FAQ
 grand_parent: JaaS
 ---
 
-# Is Jitsi as a Service (JaaS) HIPAA Complaint?
+## Is Jitsi as a Service (JaaS) HIPAA Complaint?
 
 Yes, 8x8, including JaaS, has also received third-party validation of its HIPAA compliance and can offer business associate agreements [BAAs](https://www.aptible.com/hipaa/what-is-a-baa/#what-is-a-baa).
 Learn more about [8x8 security](https://www.8x8.com/why-8x8/security).

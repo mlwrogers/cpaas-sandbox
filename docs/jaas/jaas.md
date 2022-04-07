@@ -10,7 +10,7 @@ permalink: /docs/jaas
 
 Lets learn some JaaS! 🎷
 
-# What is JaaS?
+## What is JaaS?
 8x8 Jitsi as a Service (JaaS) is an enterprise-ready video meeting platform that allows developers, organizations, and businesses to easily build and deploy video solutions. Jitsi’s powerful global platform helps you deliver secure, branded video experiences to your audience. The following FAQ provides details on how we deliver, secure, and support customizations for this service.
 
 # Where can i find information?

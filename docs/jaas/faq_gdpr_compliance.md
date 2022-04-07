@@ -5,7 +5,7 @@ parent: JaaS_FAQ
 grand_parent: JaaS
 ---
 
-# Is Jitsi as a Service (JaaS) GDPR Complaint?
+## Is Jitsi as a Service (JaaS) GDPR Complaint?
 
 Yes, JaaS is GDPR compliant.
 
