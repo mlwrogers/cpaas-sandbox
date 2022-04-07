@@ -18,7 +18,13 @@ permalink: /
 
 This page has been put together by the 8x8 CPaaS Solution Engineering team to help educate and demonstrate all the different APIs available from 8x8.
 
-Prefer to view this page in dark mode?
+So, what _do_ we have?
+First of all you can find all of our official documentation on the [8x8 developer portal: https://developer.8x8.com/](https://developer.8x8.com/)
+
+What will you look at first?
+
+Prefer to view this page from the dark side?
+
 <button class="btn js-toggle-dark-mode">Move to the dark side</button>
 
 <script>
@@ -34,10 +40,3 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
   }
 });
 </script>
-
-So, what _do_ we have?
-First of all you can find all of our official documentation on the [8x8 developer portal: https://developer.8x8.com/](https://developer.8x8.com/)
-
-The following sections all contain easy to consume code examples and demonstrations.
-
-Which one will you look at first?
