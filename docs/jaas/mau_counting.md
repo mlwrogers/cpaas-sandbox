@@ -1,7 +1,7 @@
 ---
 layout: default
 title: How can i keep track of the count?
-parent: jaas
+parent: JaaS
 ---
 
 # How to keep track of the MAU count?
