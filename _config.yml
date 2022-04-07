@@ -4,10 +4,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CPaaS Sandbox
+title: CPaaS Wiki
 remote_theme: pmarsceill/just-the-docs
-description: A sandbox resource for the 8x8 CPaaS team
-baseurl: "/cpaas-sandbox" # the subpath of your site, e.g. /blog
+description: A useful wiki for the 8x8 CPaaS team
+baseurl: "/cpaas-wiki" # the subpath of your site, e.g. /blog
 url: "https://mlwrogers.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Set a path/url to a logo that will be displayed instead of the title
@@ -56,8 +56,8 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "CPaaS-sandbox on GitHub":
-    - "//github.com/mlwrogers/cpaas-sandbox"
+  "CPaaS-wiki on GitHub":
+    - "//github.com/mlwrogers/cpaas-wiki"
   "8x8 Developer site":
     - "//developer.8x8.com/"
 

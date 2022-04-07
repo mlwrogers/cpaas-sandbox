@@ -10,7 +10,7 @@ permalink: /
     style="display: block;
            margin-left: auto;
            margin-right: auto;"
-    src="https://mlwrogers.github.io/cpaas-sandbox/image_assets/8x8_RedSquare_LogoSml_RGB.png"
+    src="https://mlwrogers.github.io/cpaas-wiki/image_assets/8x8_RedSquare_LogoSml_RGB.png"
     alt="8x8_red_square_logo">
 &nbsp;
 
