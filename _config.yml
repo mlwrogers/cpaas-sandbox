@@ -56,8 +56,6 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "CPaaS-wiki on GitHub":
-    - "//github.com/mlwrogers/cpaas-wiki"
   "8x8 Developer site":
     - "//developer.8x8.com/"
 
