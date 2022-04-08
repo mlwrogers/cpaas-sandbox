@@ -7,6 +7,7 @@ permalink: /docs/jaas
 ---
 
 # Jitsi As A Service (JaaS)
+[![Jitsi handbook](/cpaas-wiki/image_assets/jitsi+powered_by.png)](https://jaas.8x8.vc/#/)
 
 Lets learn some JaaS! 🎷
 

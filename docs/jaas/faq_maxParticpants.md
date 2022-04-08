@@ -1,6 +1,6 @@
 ---
 layout: default
-title: What is the maximum number of particpants in one meeting?
+title: What is the maximum number of participants in one meeting?
 parent: JaaS_FAQ
 grand_parent: JaaS
 ---

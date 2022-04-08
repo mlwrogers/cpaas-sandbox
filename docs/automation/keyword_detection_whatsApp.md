@@ -61,8 +61,8 @@ There are two QR codes below, one of them includes a 5 digit code as part of the
 
 Scan (or click) this QR code to send us a WhatsApp message that _includes_ a specific keyword and receive an automatic response!
 
-[![QR_with_keyword](https://mlwrogers.github.io/cpaas-sandbox/image_assets/OFMUAVJ2CDYSP1_with_keyword.png)](https://wa.me/message/OFMUAVJ2CDYSP1)
+[![QR_with_keyword](/cpaas-wiki/image_assets/OFMUAVJ2CDYSP1_with_keyword.png)](https://wa.me/message/OFMUAVJ2CDYSP1)
 
 Scan (or click) this QR code to send us a WhatsApp message with _no_ keyword, you will _not_ receive an automatic response!
 
-[![QR_without_keyword](https://mlwrogers.github.io/cpaas-sandbox/image_assets/HK7HY7VU5EPYN1_without_keyword.png)](https://wa.me/message/HK7HY7VU5EPYN1)
+[![QR_without_keyword](/cpaas-wiki/image_assets/HK7HY7VU5EPYN1_without_keyword.png)](https://wa.me/message/HK7HY7VU5EPYN1)
