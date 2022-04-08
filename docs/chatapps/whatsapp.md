@@ -69,8 +69,9 @@ Another great way to help customers initiate conversations with your business vi
 This QR code will initiate a conversation by sending a message into the 8x8 Converse Sandbox, from which an agent can respond and continue to have a 2-way conversation with the customer via WhatsApp.
 **Scan or click Me**👇
 
-[![Initiate msg to Converse](https://mlwrogers.github.io/cpaas-sandbox/image_assets/UTG5HWVNLLZ7F1_converse_demo.png)](https://wa.me/message/UTG5HWVNLLZ7F1)
+[![Initiate msg to Converse](./image_assets/UTG5HWVNLLZ7F1_converse_demo.png)](https://wa.me/message/UTG5HWVNLLZ7F1)
 
+https://mlwrogers.github.io/cpaas-sandbox
 The pre-filled message used behind this QR to initiate this interaction is:  Hi 8x8 team, I need some technical assistance 🛠️ . Please can you help me? 🙏  
 The final link used behind this QR code looks like this:
 ```
