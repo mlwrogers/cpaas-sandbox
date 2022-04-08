@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Is JaaS HIPAA Compliant?
+nav_order: 3
 parent: JaaS_FAQ
 grand_parent: JaaS
 ---

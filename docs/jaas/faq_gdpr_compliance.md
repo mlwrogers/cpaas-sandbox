@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Is JaaS GDPR Compliant?
+nav_order: 2
 parent: JaaS_FAQ
 grand_parent: JaaS
 ---
