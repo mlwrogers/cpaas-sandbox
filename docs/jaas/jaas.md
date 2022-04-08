@@ -6,8 +6,15 @@ has_children: true
 permalink: /docs/jaas
 ---
 
+<img
+    style="display: block;
+           margin-left: auto;
+           margin-right: auto;"
+    src="/cpaas-wiki/image_assets/jitsi+powered_by.png"
+    alt="Jitsi As A Service">
+&nbsp;
+
 # Jitsi As A Service (JaaS)
-[![Jitsi handbook](/cpaas-wiki/image_assets/jitsi+powered_by.png)](https://jaas.8x8.vc/#/)
 
 Lets learn some JaaS! 🎷
 
