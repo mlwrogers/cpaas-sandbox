@@ -2,8 +2,7 @@
 layout: default
 title: What's the difference between Jitsi and JaaS?
 nav_order: 1
-parent: JaaS_FAQ
-grand_parent: JaaS
+parent: JaaS
 ---
 
 ## What's the difference between Jitsi and JaaS?
