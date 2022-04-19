@@ -2,7 +2,7 @@
 layout: default
 title: SMS_FAQ
 has_children: true
-parent: JaaS
+parent: SMS
 ---
 
 # SMS FAQ
