@@ -22,21 +22,3 @@ So, what _do_ we have?
 First of all you can find all of our official documentation on the [8x8 developer portal: https://developer.8x8.com/](https://developer.8x8.com/)
 
 What will you look at first?
-
-Prefer to view this page from the dark side?
-
-<button class="btn js-toggle-dark-mode">Move to the dark side</button>
-
-<script>
-const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
-
-jtd.addEvent(toggleDarkMode, 'click', function(){
-  if (jtd.getTheme() === 'dark') {
-    jtd.setTheme('light');
-    toggleDarkMode.textContent = 'Move to the dark side';
-  } else {
-    jtd.setTheme('dark');
-    toggleDarkMode.textContent = 'Return to the light';
-  }
-});
-</script>
