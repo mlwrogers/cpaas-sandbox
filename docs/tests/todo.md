@@ -12,3 +12,24 @@
 10. Create video to send first SMS via Connect.
 11. Create video for Whats Connect,
 12. Create video for Whats Converse,
+
+13. Get Dark side working properly. This just does the current page.
+Prefer to view this page from the dark side?
+
+<button class="btn js-toggle-dark-mode">Move to the dark side</button>
+
+<script>
+const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
+
+jtd.addEvent(toggleDarkMode, 'click', function(){
+  if (jtd.getTheme() === 'dark') {
+    jtd.setTheme('light');
+    toggleDarkMode.textContent = 'Move to the dark side';
+  } else {
+    jtd.setTheme('dark');
+    toggleDarkMode.textContent = 'Return to the light';
+  }
+});
+</script>
+
+14.
