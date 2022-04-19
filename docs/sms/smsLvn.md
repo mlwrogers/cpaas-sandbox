@@ -9,9 +9,9 @@ grand_parent: SMS
 
 Yes, we can support 2-way SMS and provision LVNs for the following countries:
 
-Anguilla
-Antigua and Barbuda
-Argentina
+Anguilla /
+Antigua and Barbuda /
+Argentina /
 Australia
 Bahamas
 Bahrain
