@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Whats Connect?
+has_children: true
 parent: The Basics
 ---
 

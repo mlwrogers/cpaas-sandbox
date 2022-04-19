@@ -8,4 +8,7 @@
 6. You can place single binaries in /usr/local/bin (or symlink them there from another directory) or add another dedicated directory to your path. You might also want to checkout a packages manager like Homebrew.
 7. https://support.apple.com/en-us/HT207935 - saved gif in downloads ios15-iphone12-pro-control-center-screen-record-animation.gif
 8. ngrok.
-9. 
+9. Update API key video to also show subaccountId and audio narative.
+10. Create video to send first SMS via Connect.
+11. Create video for Whats Connect,
+12. Create video for Whats Converse,

@@ -6,8 +6,7 @@ parent: JaaS_FAQ
 grand_parent: JaaS
 ---
 
-## What is an MAU?
-or
+## What is an MAU? and
 ## How does JaaS identify MAUs for billing/accounting?
 
 MAU stands for Monthly Active User.  Each MAU represents a single participant who has attended at least one meeting with at least one other participant during your monthly billing cycle.
