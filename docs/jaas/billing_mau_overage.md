@@ -1,8 +1,8 @@
 ---
 layout: default
 title: What happens if we use more MAU than included in our current plan?
-nav_order: 7
-parent: JaaS_FAQ
+nav_order: 4
+parent: Pricing & Billing FAQs
 grand_parent: JaaS
 ---
 

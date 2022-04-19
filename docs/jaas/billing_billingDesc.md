@@ -1,8 +1,8 @@
 ---
 layout: default
 title: How does JaaS billing work?
-nav_order: 4
-parent: JaaS_FAQ
+nav_order: 1
+parent: Pricing & Billing FAQs
 grand_parent: JaaS
 ---
 

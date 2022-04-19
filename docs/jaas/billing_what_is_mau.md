@@ -1,8 +1,8 @@
 ---
 layout: default
 title: What is an MAU?
-nav_order: 5
-parent: JaaS_FAQ
+nav_order: 2
+parent: Pricing & Billing FAQs
 grand_parent: JaaS
 ---
 

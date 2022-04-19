@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Tell me about firewalls and whitelists?
+nav_order: 2
 parent: JaaS_FAQ
 grand_parent: JaaS
 ---

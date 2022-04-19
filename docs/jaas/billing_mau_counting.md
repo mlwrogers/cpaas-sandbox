@@ -1,8 +1,8 @@
 ---
 layout: default
 title: How do we keep track of the MAU count?
-nav_order: 6
-parent: JaaS_FAQ
+nav_order: 3
+parent: Pricing & Billing FAQs
 grand_parent: JaaS
 ---
 

@@ -1,17 +1,16 @@
 ---
 layout: default
-title: Is JaaS GDPR Compliant?
-nav_order: 2
-parent: JaaS_FAQ
+title: Is JaaS HIPAA Compliant?
+parent: Security & Compliance
 grand_parent: JaaS
 ---
 
-## Is Jitsi as a Service (JaaS) GDPR Complaint?
+## Is Jitsi as a Service (JaaS) HIPAA Complaint?
 
-Yes, JaaS is GDPR compliant.
-
-8x8, including JaaS, has also received third-party validation of its HIPAA compliance and can offer business associate agreements [BAAs](https://www.aptible.com/hipaa/what-is-a-baa/#what-is-a-baa).
+Yes, 8x8, including JaaS, has also received third-party validation of its HIPAA compliance and can offer business associate agreements [BAAs](https://www.aptible.com/hipaa/what-is-a-baa/#what-is-a-baa).
 Learn more about [8x8 security](https://www.8x8.com/why-8x8/security).
+
+JaaS is also GDPR compliant.
 
 Further legal documentation can be checked here:
 

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Can we carry unused MAU to the next month?
-nav_order: 8
-parent: JaaS_FAQ
+nav_order: 5
+parent: Pricing & Billing FAQs
 grand_parent: JaaS
 ---
 
