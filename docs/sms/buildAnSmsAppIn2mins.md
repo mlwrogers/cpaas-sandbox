@@ -1,7 +1,8 @@
 ---
 layout: default
 title: 2-way SMS in 2 mins
-parent: SMS
+parent: How-to's and Examples
+grand_parent: SMS
 ---
 
 # A 2-way SMS app in less than 2 mins!

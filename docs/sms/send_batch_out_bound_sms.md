@@ -2,7 +2,8 @@
 layout: default
 title: Send batch SMS
 parent: SMS
-nav_order: 2
+parent: How-to's and Examples
+grand_parent: SMS
 ---
 
 # Send a batch of SMS with different content

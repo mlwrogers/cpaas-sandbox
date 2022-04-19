@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Send single SMS with Connect
-parent: SMS
-nav_order: 4
+parent: How-to's and Examples
+grand_parent: SMS
 ---
 
 # Send a single SMS using the 8x8 Connect Web Portal

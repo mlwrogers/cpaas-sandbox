@@ -2,7 +2,8 @@
 layout: default
 title: Send Batch SMS, compact
 parent: SMS
-nav_order: 3
+parent: How-to's and Examples
+grand_parent: SMS
 ---
 
 # Send a batch of SMS using a template (_compact_ method)

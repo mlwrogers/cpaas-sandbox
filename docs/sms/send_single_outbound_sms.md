@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Send single SMS
-parent: SMS
-nav_order: 1
+parent: How-to's and Examples
+grand_parent: SMS
 ---
 
 # Send a single SMS
