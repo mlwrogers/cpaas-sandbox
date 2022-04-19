@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Where's my 8x8 API key
-parent: The Basics
+title: Where's my API key
 nav_order: 2
+parent: Whats Connect?
+grand_parent: The Basics
 ---
 
 # Where to get your 8x8 API key from

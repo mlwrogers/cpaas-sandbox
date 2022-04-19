@@ -1,6 +1,6 @@
 ---
 layout: default
-title: What's the difference between Jitsi and JaaS?
+title: The difference between Jitsi & JaaS
 nav_order: 1
 parent: JaaS
 ---

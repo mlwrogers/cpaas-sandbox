@@ -1,25 +1,9 @@
 ---
 layout: default
-title: JaaS
-nav_order: 4
-has_children: true
-permalink: /docs/jaas
+title: Where can i find JaaS information?
+nav_order: 2
+parent: JaaS
 ---
-
-<img
-    style="display: block;
-           margin-left: auto;
-           margin-right: auto;"
-    src="/cpaas-wiki/image_assets/jitsi+powered_by.png"
-    alt="Jitsi As A Service">
-&nbsp;
-
-# Jitsi As A Service (JaaS)
-
-Lets learn some JaaS! 🎷
-
-## What is JaaS?
-8x8 Jitsi as a Service (JaaS) is an enterprise-ready video meeting platform that allows developers, organizations, and businesses to easily build and deploy video solutions. Jitsi’s powerful global platform helps you deliver secure, branded video experiences to your audience. The following FAQ provides details on how we deliver, secure, and support customizations for this service.
 
 # Where can i find information?
 
@@ -40,7 +24,3 @@ Here you can find the complete documentation for 8x8 JaaS.  This covers all of t
 [https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-iframe](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-iframe)
 This is the Jitsi handbook, it is the holy grail for Jitsi!
 There are two main approaches available to you with JaaS, using the iframe (and/or mobile sdks) or the low level lib-jitsi-meet API.  The large majority of our customers all use the iframe/sdk route as this offers the fastest route to market combined with ongoing ease of implementation and maintenance.  You may be surprised just how much you can still customize and control using the iFrame and/or SDK's instead of the low level API.
-
-## What about Analytics?
-[https://www.callstats.io/](https://www.callstats.io/)
-Strictly speaking this is not directly related to Jitsi nor JaaS.  It's included here because each JaaS account includes a ‘callstats.io light’ package which can you can access from the analytics tab inside the main JaaS console (The 1st link on this page).  callstats.io is also separate product that is already directly integrated into many WebRTC solutions, including Jitsi & JaaS.  It is a brilliant, WebRTC specific, call quality monitoring and analytics tool and can really help to enhance and maintain a high customer experience and be invaluable tool for your support and dev teams for getting insight into your webRTC service, regardless as to if you choose to continue with Jitsi/JaaS or use a 3rd party WebRTC solution.

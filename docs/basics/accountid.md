@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Where's my account ID?
-parent: The Basics
 nav_order: 1
+parent: Whats Connect?
+grand_parent: The Basics
 ---
 
 # Where to find your 8x8 Account ID and/or Sub Account ID  
