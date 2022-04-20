@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Whats Video Interaction?
+title: What is Video Interaction?
 parent: The Basics
 ---
 

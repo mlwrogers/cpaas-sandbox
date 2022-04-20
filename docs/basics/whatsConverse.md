@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Whats Converse?
+title: What is Converse?
 parent: The Basics
 ---
 
