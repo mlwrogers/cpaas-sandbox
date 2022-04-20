@@ -9,4 +9,4 @@ grand_parent: SMS
 
 Yes, we can offer you SMPP connections to terminate your traffic instead of and/or in addition to using the HTTP API.
 
-[Read more on using SMPP with our platform.](https://mlwrogers.github.io/cpaas-wiki/docs/sms/terminateSMPP.md)
+[Read more on using SMPP with our platform.](https://mlwrogers.github.io/cpaas-wiki/docs/sms/terminateSMPP)

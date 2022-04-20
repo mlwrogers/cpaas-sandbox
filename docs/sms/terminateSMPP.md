@@ -9,7 +9,7 @@ grand_parent: SMS
 ## How to connect with SMPP.
 
 📘 You can find the complete documentation for our SMPP support on our [developer website here.](https://developer.8x8.com/connect/reference/smpp-connection)
-{: .bg-blue-000 }
+{: .blue-000 }
 
 A summary of how to connect to us using SMPP is below.
 
@@ -20,7 +20,7 @@ A summary of how to connect to us using SMPP is below.
 3. 8x8 SMPP environment has multiple servers. To benefit from our fault-tolerant, high availability platform we prefer SMPP customers to connect directly to our hostname. Based on location and traffic load your application will be automatically connected to the best server.
 
 📘 You should connect to 8x8 SMPP servers using SMPP version 3.4.
-{: .bg-blue-000 }
+{: .blue-000 }
 
 Below are the connection details required to connect:
 | Setting           | Value
@@ -40,13 +40,13 @@ Your subAccount Id will be used as your SMPP `username / system_id` and will be 
 You can connect to 8x8 SMPP servers using bind_receiver and bind_transmitter or bind_transceiver. Typically we provide one account id with multiple sub-account ids; for different routing, products or services.
 
 🚧 8x8 SMPP platform allows a maximum of 4 binds per subAccountId. Your bind will be rejected if your try to exceed this value.
-{: .bg-yellow-000 }
+{: .yellow-000 }
 
 For relaying DLR
  back to your platform, 8x8 servers will send back deliver_sm to any bind connected with the same systemId of the originating submit_sm PDU. This includes if you are sending from multiple sites; we will send to any active bind.
 
 📘 You can find the DLR documentation our [developer website here.](https://developer.8x8.com/connect/reference/smpp-delivery-receipts)
-{: .bg-blue-000 }
+{: .blue-000 }
 
 ### Throughput
 Throughput is tailored to each customer’s requirement during our onboarding process. By default you will be able to submit a maximum of 50 (TPS) messages per second for each connected bind. If you have high volume requirements please discuss your specific requirements with your account manager.
@@ -63,5 +63,7 @@ The following PDUs are supported by 8x8 SMPP servers:
 - unbind
 
 📘 You should send PDUs in the format as required by SMPP Protocol Specification v3.4.
+{: .blue-000 }
+
 📘 You can find the complete documentation for our SMPP support on our [developer website here.](https://developer.8x8.com/connect/reference/smpp-connection)
-{: .bg-blue-000 }
+{: .blue-000 }
