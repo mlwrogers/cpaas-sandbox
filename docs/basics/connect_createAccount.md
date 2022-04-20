@@ -2,7 +2,7 @@
 layout: default
 title: How do i create my Connect account?
 nav_order: 1
-parent: Whats Connect?
+parent: What is Connect?
 grand_parent: The Basics
 ---
 

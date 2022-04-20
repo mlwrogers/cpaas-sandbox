@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Where's my API key
-nav_order: 2
-parent: Whats Connect?
+nav_order: 3
+parent: What is Connect?
 grand_parent: The Basics
 ---
 

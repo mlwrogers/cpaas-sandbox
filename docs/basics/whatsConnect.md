@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Whats Connect?
+title: What is Connect?
 has_children: true
 parent: The Basics
 ---
