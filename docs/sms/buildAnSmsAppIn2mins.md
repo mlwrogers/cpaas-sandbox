@@ -7,7 +7,7 @@ grand_parent: SMS
 
 # A 2-way SMS app in less than 2 mins!
 
-Credit: Contributed by [Filipe Leitao.](https://github.com/fleitao/)
+📘 Credit: Contributed by [Filipe Leitao.](https://github.com/fleitao/)
 {: .fs-2 }
 
 This short guide will help you to build a simple node.js app that will enable you to send and receive SMS messages straight from your terminal/bash.
