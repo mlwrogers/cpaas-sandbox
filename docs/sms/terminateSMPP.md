@@ -51,7 +51,11 @@ For relaying DLR
 {: .text-blue-000 }
 
 ### Throughput
-Throughput is tailored to each customer’s requirement during our onboarding process. By default you will be able to submit a maximum of 50 (TPS) messages per second for each connected bind. If you have high volume requirements please discuss your specific requirements with your account manager.
+Throughput is tailored to each customer’s requirement during our onboarding process. By default you will be able to submit a maximum of 50 messages per second for each connected bind (50 TPS).  
+
+We support 4 binds per subAccount, therefor you have a total of 200 TPS across 4 binds for each configured subAccount.  You can have multiple subAccounts.
+
+If you have high volume requirements and need to increase the number of configured subAccounts or the TPS for your subAccount/s please contact your account manager to discuss your requirements.
 
 ### PDUs
 The following PDUs are supported by 8x8 SMPP servers:
