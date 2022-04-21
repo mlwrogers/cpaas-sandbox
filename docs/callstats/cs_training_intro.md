@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Introduction to callstats.io
+title: Introduction to callstats
 parent: Training videos
-grand_parent: callstats.io
+grand_parent: callstats
 nav_order: 1
 ---
 

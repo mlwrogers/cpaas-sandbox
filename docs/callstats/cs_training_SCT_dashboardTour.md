@@ -2,7 +2,7 @@
 layout: default
 title: Smart Connectivity Tests (SCT) Dashboard Tour
 parent: Training videos
-grand_parent: callstats.io
+grand_parent: callstats
 nav_order: 7
 ---
 

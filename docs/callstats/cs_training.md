@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Training videos
-parent: callstats.io
+parent: callstats
 has_children: true
 nav_order: 2
 ---

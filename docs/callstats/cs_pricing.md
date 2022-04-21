@@ -1,7 +1,7 @@
 ---
 layout: default
-title: callstats.io Pricing
-parent: callstats.io
+title: callstats Pricing
+parent: callstats
 has_children: true
 nav_order: 1
 ---

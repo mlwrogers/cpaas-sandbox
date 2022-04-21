@@ -2,7 +2,7 @@
 layout: default
 title: Call Failed, Multiple rejoins (churn)
 parent: Training videos
-grand_parent: callstats.io
+grand_parent: callstats
 nav_order: 3
 ---
 

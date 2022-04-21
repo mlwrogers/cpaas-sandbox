@@ -2,7 +2,7 @@
 layout: default
 title: Introduction to Smart Connectivity Tests (SCT)
 parent: Training videos
-grand_parent: callstats.io
+grand_parent: callstats
 nav_order: 6
 ---
 
