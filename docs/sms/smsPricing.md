@@ -17,5 +17,5 @@ Being able to access accurate pricing for your SMS is paramount to running a goo
 
 ## Programmitically access your SMS pricing
 
-In addition to downloading the full rate card directly from Connect, you can also use our reporting API to programitically retrieve pricing information.
-Full documentaion for this API canbe found here: [https://developer.8x8.com/connect/reference/get-price-list](https://developer.8x8.com/connect/reference/get-price-list)  
+In addition to downloading the full rate card directly from Connect, you can also use our reporting API to programmatically retrieve pricing information.
+Full documentation for this API can be found here: [https://developer.8x8.com/connect/reference/get-price-list](https://developer.8x8.com/connect/reference/get-price-list)  
