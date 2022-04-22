@@ -11,8 +11,7 @@ grand_parent: SMS
 
 2. Click "Sender" from menu on the left.
 
-![](./image_assets/connect/1stsms/image1.png){width="6.6075656167979in"
-height="3.6111100174978126in"}
+![image1](./image_assets/connect/1stsms/image1.png)
 
 3. Click and select your SMS subaccount. If you've only just signed up, you'll only have one.
 
