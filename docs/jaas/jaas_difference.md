@@ -16,13 +16,16 @@ parent: JaaS
 
 **All 8x8 products that use video are built using our own JaaS infrastructure.**
 
+## Why should i consider using JaaS over Jitsi?
+
 * You do not need to host any Jitsi components yourself, making JaaS extremely quick to market with very low ongoing maintenance.
+  * Your Devops team will thank you!
 * 8x8 provides commercial Support and SLA for JaaS customers.
-* Call recording is all ready to go; as is Transcription, PSTN In/Out and Streaming services.
-  * A few features do carry an extra cost, such as call recording. Learn more about [JaaS pricing here](https://jaas.8x8.vc/#/pricing).
+* Call recording is all ready to go; as is Transcription, PSTN In/Out, SIP in/out and Streaming services to youTube or RTMP.
+  * A few features do carry an extra cost, such as streaming and call recording. Learn more about [JaaS pricing here](https://jaas.8x8.vc/#/pricing).
 * No dev ops and no servers to worry about + GDPR, HIPAA, Industry leading SLA, webhooks, white-label branding are just some of the advantages of JaaS over a simple self-install of Jitsi.
 * You can check our [comparison chart here](https://jaas.8x8.vc/#/comparison).
 * [Meetings at your service!](https://www.8x8.com/products/apis/video)
 * Want to [know more?](https://jaas.8x8.vc/#/)
 
-***With Jitsi as a Service we give you all the power of Jitsi running on our global platform so you can focus on building secure and branded video experiences.***
+***With Jitsi as a Service we give you all the power and security of Jitsi running on our global 8x8 platform.  Freeing up your developers to spend more time focusing on your own applications and services***
