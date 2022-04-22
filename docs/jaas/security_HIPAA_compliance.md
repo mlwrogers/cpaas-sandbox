@@ -3,6 +3,7 @@ layout: default
 title: Is JaaS HIPAA Compliant?
 parent: Security & Compliance
 grand_parent: JaaS
+nav_order: 2
 ---
 
 ## Is Jitsi as a Service (JaaS) HIPAA Complaint?

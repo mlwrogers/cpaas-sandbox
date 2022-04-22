@@ -3,6 +3,7 @@ layout: default
 title: Is JaaS GDPR Compliant?
 parent: Security & Compliance
 grand_parent: JaaS
+nav_order: 1
 ---
 
 ## Is Jitsi as a Service (JaaS) GDPR Complaint?
