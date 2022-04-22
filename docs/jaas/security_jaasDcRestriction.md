@@ -12,21 +12,26 @@ By default JaaS will always try to select the closest location to the first pers
 It is possible for you to force a specific cluster to be used instead of the ‘first-in-first-chosen’ approach, i.e. You can force the exclusive use of Frankfurt for example.
 This can be done by setting the DC specific domain in the script source when you initialise the iFrame.
 
-For example:DEFAULT:  	<script src='https://8x8.vc/external_api.js' async></script>
-AND...	window.onload = () => { const api = new JitsiMeetExternalAPI("8x8.vc", {
+### Examples
 
-FRANKFURT: 	<script src='https://frankfurt.8x8.vc/external_api.js' async></script>
-AND...	window.onload = () => { const api = new JitsiMeetExternalAPI("frankfurt.8x8.vc", {
+The Default:
+`  	<script src='https://8x8.vc/external_api.js' async></script> `
+AND...
+`window.onload = () => { const api = new JitsiMeetExternalAPI("8x8.vc", `
+
+`FRANKFURT: 	<script src='https://frankfurt.8x8.vc/external_api.js' async></script>`
+AND...
+`window.onload = () => { const api = new JitsiMeetExternalAPI("frankfurt.8x8.vc", `
 
 Using the approach outlined above the options currently available to you are:
-8x8.vc (Default, closest location, First in-First Chosen)
-frankfurt.8x8.vc (Germany)
-london.8x8.vc (UK)
-ashburn.8x8.vc (US-East)
-oregon.8x8.vc (US-West)
-saopaulo.8x8.vc (SA-East)
-mumbai.8x8.vc (India)
-sydney.8x8.vc (Australia)
+* 8x8.vc (Default, closest location, First in First Chosen)
+* frankfurt.8x8.vc (Germany)
+* london.8x8.vc (UK)
+* ashburn.8x8.vc (US-East)
+* oregon.8x8.vc (US-West)
+* saopaulo.8x8.vc (SA-East)
+* mumbai.8x8.vc (India)
+* sydney.8x8.vc (Australia)
 
 ## Important notes
 
