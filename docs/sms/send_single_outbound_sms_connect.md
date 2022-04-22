@@ -52,3 +52,7 @@ grand_parent: SMS
 *  You've sent your first SMS using the 8x8 Connect portal!
 
 ![image11](https://mlwrogers.github.io/cpaas-wiki/image_assets/connect/1stsms/image2.png)
+
+*  It's been delivered!
+
+![image12](https://mlwrogers.github.io/cpaas-wiki/image_assets/connect/1stsms/smsArrived.png)
