@@ -10,25 +10,27 @@ JaaS is using a worldwide infrastructure with datacenter's in multiple countries
 By default JaaS will always try to select the closest location to the first person entering/creating the meeting room; everyone else will then join the room setup in that location.
 
 It is possible for you to force a specific cluster to be used instead of the ‘first-in-first-chosen’ approach, i.e. You can force the exclusive use of Frankfurt for example.
-This can be done by setting the DC specific domain in the script source when you initialise the iFrame.
+This can be done by setting the DC specific domain in the script source when you initialise the iFrame, you need to modify it two places as indicated below.
 
 ### Examples
 
-The Default:
+The Default (first-in-first-chosen):
 
-`<script src='https://8x8.vc/external_api.js' async></script>`
+```js
 
-AND...
+<script src='https://8x8.vc/external_api.js' async></script>
 
-`window.onload = () => { const api = new JitsiMeetExternalAPI("8x8.vc",`
+window.onload = () => { const api = new JitsiMeetExternalAPI("8x8.vc",
+```
 
-Restrict to Frankfurt: 	
+Restricted to Frankfurt:
 
-`<script src='https://frankfurt.8x8.vc/external_api.js' async></script>`
+```js
+<script src='https://frankfurt.8x8.vc/external_api.js' async></script>
 
-AND...
 
-`window.onload = () => { const api = new JitsiMeetExternalAPI("frankfurt.8x8.vc",`
+window.onload = () => { const api = new JitsiMeetExternalAPI("frankfurt.8x8.vc",
+```
 
 Using the approach outlined above the options currently available to you are:
 * 8x8.vc (Default, closest location, First in First Chosen)
