@@ -15,13 +15,20 @@ This can be done by setting the DC specific domain in the script source when you
 ### Examples
 
 The Default:
-`  	<script src='https://8x8.vc/external_api.js' async></script> `
-AND...
-`window.onload = () => { const api = new JitsiMeetExternalAPI("8x8.vc", `
 
-`FRANKFURT: 	<script src='https://frankfurt.8x8.vc/external_api.js' async></script>`
+`<script src='https://8x8.vc/external_api.js' async></script>`
+
 AND...
-`window.onload = () => { const api = new JitsiMeetExternalAPI("frankfurt.8x8.vc", `
+
+`window.onload = () => { const api = new JitsiMeetExternalAPI("8x8.vc",`
+
+Restrict to Frankfurt: 	
+
+`<script src='https://frankfurt.8x8.vc/external_api.js' async></script>`
+
+AND...
+
+`window.onload = () => { const api = new JitsiMeetExternalAPI("frankfurt.8x8.vc",`
 
 Using the approach outlined above the options currently available to you are:
 * 8x8.vc (Default, closest location, First in First Chosen)

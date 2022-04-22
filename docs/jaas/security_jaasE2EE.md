@@ -11,7 +11,12 @@ nav_order: 4
 In short, Yes.
 Here is a good overview of how Jitsi/JaaS is working for both 1:1 and 1:N calls and how encryption is handled for each.
 
-**Jitsi/JaaS meetings operate in 2 ways: peer-to-peer (P2P) or via the Jitsi Videobridge (JVB). This is completely transparent to the user.**
+**Jitsi/JaaS meetings operate in 2 ways:**
+1. peer-to-peer (P2P)
+2. via the Jitsi Videobridge (JVB).
+
+📘 These are completely transparent to the user.
+{: .text-blue-000 }
 
 ## Peer-to-Peer (P2P)
 
