@@ -55,4 +55,4 @@ grand_parent: SMS
 
 *  It's been delivered!
 
-![image12](https://mlwrogers.github.io/cpaas-wiki/image_assets/connect/1stsms/smsArrived.png)
+![image12](https://mlwrogers.github.io/cpaas-wiki/image_assets/connect/1stsms/smsArrived.jpg)
