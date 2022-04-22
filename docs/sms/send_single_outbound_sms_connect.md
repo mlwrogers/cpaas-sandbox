@@ -7,7 +7,7 @@ grand_parent: SMS
 
 # Send a single SMS using the 8x8 Connect Web Portal
 
-* Navigate to https://connect.8x8.com/ and login with your account credentials.
+* Navigate to [https://connect.8x8.com/](https://connect.8x8.com/) and login with your account credentials.
 
 *  Click "Sender" from menu on the left.
 
