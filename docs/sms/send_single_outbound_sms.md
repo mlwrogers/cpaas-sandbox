@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Send single SMS
+title: Send single SMS - API
 parent: How-to's and Examples
 grand_parent: SMS
 ---
 
-# Send a single SMS
+# Send a single SMS using the API
 
 Here is a quick example of how to send to a single SMS straight from your bash/terminal using cURL.
 
