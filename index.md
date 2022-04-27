@@ -23,6 +23,6 @@ First of all you can find all of our official documentation on the [8x8 develope
 
 Prefer your information bitesized?  Here's a quick peek at all the 8x8 COmmunication APIs in less than 2 mins!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pf7lFoaVjuE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay="1"; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pf7lFoaVjuE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Which API will work with first?
