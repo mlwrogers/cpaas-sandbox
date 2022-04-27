@@ -2,6 +2,7 @@
 layout: default
 title: What is Jitsi As A Service (JaaS)?
 parent: The Basics
+nav_order: 5
 ---
 
 # What is Jitsi As A Service, JaaS for short.

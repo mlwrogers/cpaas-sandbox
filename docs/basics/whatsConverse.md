@@ -3,6 +3,7 @@ layout: default
 title: What is Converse?
 parent: The Basics
 has_children: Yes
+nav_order: 2
 ---
 
 # 8x8 Converse, customer conversations made simple.

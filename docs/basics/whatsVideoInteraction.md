@@ -2,11 +2,15 @@
 layout: default
 title: What is Video Interaction?
 parent: The Basics
+nav_order: 3
 ---
 
 # Video Interaction
 
-8x8 Video Interaction product (Vi) is an enterprise tool designed to elevate customer engagement. It focuses on the one-to-one interactions through an out-of-the-box solution.  
+8x8 Video Interaction product (Vi) is an enterprise tool designed to elevate customer engagement. It focuses on the one-to-one interactions through an out-of-the-box solution.
+
+📘  Did you know, Video Interaction is built on top of JaaS! 🎷 🚀
+{: .text-blue-000 }
 
 In many situations, emails, chat, and phone calls are not the most efficient way to assist customers. In other situations, sending an employee on-site is a costly, time-consuming, and inefficient use of time.  
 
