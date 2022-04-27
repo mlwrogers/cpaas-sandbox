@@ -21,3 +21,7 @@ Here we try to cover some of the most commonly asked questions about the 8x8 Jit
 
 Please do also check out the official documentaion website which you can find here:
 [https://developer.8x8.com/jaas/docs/jaas-onboarding](https://developer.8x8.com/jaas/docs/jaas-onboarding)
+
+## Here's a quick peek at JaaS in 45 seconds!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yhNP-rI_DTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

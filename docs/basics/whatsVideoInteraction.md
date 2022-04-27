@@ -18,7 +18,11 @@ In many situations, emails, chat, and phone calls are not the most efficient way
 
 8x8 Vi allows ‘Agents’ to interact via video with ‘Guests’(customers).
 
-## See it in action
+Here's a short peek at Video Interaction!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9fAxq6u8-wA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## What to see more? Watch it in action 👇🏻
 
 Wacth this short demonstration of how Video Interaction can be used for remote field support.
 

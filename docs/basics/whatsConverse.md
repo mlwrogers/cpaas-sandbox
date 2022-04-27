@@ -13,7 +13,11 @@ Engage with your customers over SMS, WhatsApp, Viber, WeChat, Zalo and more, eas
 
 To get access to 8x8 Converse, please reach out to your account manager or contact our sales team, [cpaas-sales@8x8.com](mailto:cpaas-sales@8x8.com)  
 
-## See It In Action
+Here's a 10 second peek at Converse!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CcLk3g_BtK0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Want to see more? Watch it in action 👇🏻
 
 Wacth this short demonstration of how to manage inbound SMS and WhatsAPp using Converse!
 
