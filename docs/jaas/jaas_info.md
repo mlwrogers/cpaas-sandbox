@@ -17,8 +17,8 @@ Should you choose to use the contact support option in the portal during your ea
 [https://developer.8x8.com/jaas/docs/jaas-onboarding](https://developer.8x8.com/jaas/docs/jaas-onboarding)
 Here you can find the complete documentation for 8x8 JaaS.  This covers all of the 8x8 "layer", everything JaaS related that is not specific to the underlying Jitsi itself.  There are also several sections that have direct links into the Jitsi handbook for easy reference, such as:
 
-* The Section on ui customisation using config overwrite. https://developer.8x8.com/jaas/docs/customize-ui-overview
-* The section on the advanced per room branding. https://developer.8x8.com/jaas/docs/jaas-prefs-advanced-branding
+* The Section on ui customisation using config overwrite. [https://developer.8x8.com/jaas/docs/customize-ui-overview](https://developer.8x8.com/jaas/docs/customize-ui-overview)
+* The section on the advanced per room branding. [https://developer.8x8.com/jaas/docs/jaas-prefs-advanced-branding](https://developer.8x8.com/jaas/docs/jaas-prefs-advanced-branding)
 
 ## The Jitsi Handbook  
 [https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-iframe](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-iframe)

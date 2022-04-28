@@ -16,12 +16,14 @@ permalink: /
 
 # CPaaS: FAQ's, hints, tips, demos & code!
 
-This page has been put together by the 8x8 CPaaS Solution Engineering team to help educate and demonstrate all the different APIs available from 8x8.
+This wiki has been put together by the 8x8 CPaaS Solution Engineering team as a resource to help educate and demonstrate all the different APIs available from 8x8.
 
 So, what _do_ we have?
-First of all you can find all of our official documentation on the [8x8 developer portal: https://developer.8x8.com/](https://developer.8x8.com/)
+First, its important to know that all of the 8x8 API documentation can be on the [8x8 developer portal: https://developer.8x8.com/](https://developer.8x8.com/)
 
-Prefer your information bitesized?  Here's a quick peek at all the 8x8 COmmunication APIs in less than 2 mins!
+
+Prefer your information bitesized?  
+Here's a quick peek at all the 8x8 Communication APIs, in less than 2 mins!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pf7lFoaVjuE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
