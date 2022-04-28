@@ -24,3 +24,8 @@ Here you can find the complete documentation for 8x8 JaaS.  This covers all of t
 [https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-iframe](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-iframe)
 This is the Jitsi handbook, it is the holy grail for Jitsi!
 There are two main approaches available to you with JaaS, using the iframe (and/or mobile sdks) or the low level lib-jitsi-meet API.  The large majority of our customers all use the iframe/sdk route as this offers the fastest route to market combined with ongoing ease of implementation and maintenance.  You may be surprised just how much you can still customize and control using the iFrame and/or SDK's instead of the low level API.
+
+⚠️ **IMPORTANT NOTE**
+JaaS documentation will often refer to various Jitsi Meet developer guide subsections (The Jitsi Handbook). It's important to note that JaaS meetings are hosted on 8x8.vc domain, while the refered sections from the Jitsi Handbook all mention meet.jit.si domain, which can be confusing. When using pieces of information from the Jitsi handbook, please always use 8x8.vc instead of meet.jit.si as the domain value in your implementation, as meet.jit.si does not accommodate the JaaS infrastructure.
+
+8x8.vc is the special 8x8 deployment of Jitsi infrastructure with support that does have a few extras when compared to the meet.jit.si deployment.
