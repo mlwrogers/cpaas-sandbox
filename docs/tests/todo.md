@@ -33,3 +33,17 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 </script>
 
 14.
+
+
+
+
+
+Callstats
+
+Dashboard glance
+
+Select the filter
+
+7 days vs 30 days etc.
+
+shows you a snapshot of quality metrics for your service
