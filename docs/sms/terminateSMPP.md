@@ -19,7 +19,7 @@ A summary of how to connect to us using SMPP is below.
   - If you do not yet have a connect account, you check out the `basics` section of this wiki for instructions on [creating a new Connect account.](https://mlwrogers.github.io/cpaas-wiki/docs/basics/connect_createAccount/)
 2. Once onboarded by working with your account Manager, we will provide you with the username and password required for your connection.
 3. 8x8 SMPP environment has multiple servers. To benefit from our fault-tolerant, high availability platform we prefer SMPP customers to connect directly to our hostname. Based on location and traffic load your application will be automatically connected to the best server.
-4. We have two primary regions for SMPP termination, our Signapore (SG) Data Center and our UK Data Center.  By default all new accounts are initially created in the SG DC unless explicitely requested.  Note that accounts can be moved from SG to UK by request.
+4. We have two primary regions for SMPP termination, our Signapore (SG) Data Center and our UK Data Center.  By default all new accounts are initially created in the SG DC unless explicitly requested.  Note that accounts can be moved from SG to UK by request.
 
 📘  You should connect to 8x8 SMPP servers using SMPP version 3.4.
 {: .text-blue-000 }
