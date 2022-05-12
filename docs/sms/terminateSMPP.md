@@ -28,7 +28,7 @@ Below are the connection details required to connect:
 
 | Setting          | Value (SG DC)    | Value (UK DC)    |
 |:-----------------|:-----------------|:-----------------|
-| IP address       | smpp.8x8.com     | smpp.8x8.com     |
+| IP address       | smpp.8x8.com     | smpp.8x8.uk     |
 | Port             | 2775             | 2775             |
 | Port for SSL/TLS | 2776 (TLS v1.2)  | 2776 (TLS v1.2)  |
 | system_id	       | your `username`  | your `username`  |
