@@ -15,7 +15,7 @@ The 8x8 platform will automatically send your SMS messages in the most compact e
 
 If you are using the API to send messages you can also explicitley select which encoding you want to use by configuring the _encoding_ value (included in teh example below).
 
-Supported encoding values are: AUTO | GSM7 | UCS2
+Supported **_encoding_** values are:|AUTO|GSM7|UCS2
 
 ```json
 curl --request POST 'https://sms.8x8.com/api/v1/subaccounts/<yourSubAccountId>/messages' \
