@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Do you support Post-pay / monthly invoicing accounts?
-parent: SMS_FAQ
+parent: SMS Pricing
 grand_parent: SMS
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Can we have a balance alert/warning?
-parent: SMS_FAQ
+title: Can we configure a balance alert/warning?
+parent: SMS Pricing
 grand_parent: SMS
 ---
 
-## Can we have a balance alert/warning?
+## Can we configure a balance alert/warning?
 
 Yes, this is supported for our _postPay_ customers.  We can set an agreed overdraft (subject to credit checks) and then we can configure a balance threshold alert to be sent via email.
 

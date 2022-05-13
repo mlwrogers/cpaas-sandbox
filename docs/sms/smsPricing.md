@@ -3,6 +3,7 @@ layout: default
 title: SMS Pricing
 parent: SMS
 nav_order: 1
+has_children: true
 ---
 
 _DRAFT_
