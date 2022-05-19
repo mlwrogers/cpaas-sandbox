@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Can i still customise and brand the JaaS meeting experience?
+title: Can i customise and brand the JaaS meeting experience?
 parent: JaaS_FAQ
 grand_parent: JaaS
 ---
