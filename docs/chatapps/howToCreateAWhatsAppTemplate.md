@@ -1,11 +1,11 @@
 ---
 layout: default
-title: How to link into WhatsApp
+title: How to create a new WhatsApp template
 parent: ChatApps
 ---
 
 
-# How to create a WhatsApp template
+# How to create a new WhatsApp template
 
 * Navigate to [https://connect.8x8.com/](https://connect.8x8.com/) and login with your account credentials.
 
