@@ -6,8 +6,6 @@ nav_order: 1
 has_children: true
 ---
 
-_DRAFT_
-
 # SMS Pricing
 
 Being able to access accurate pricing for your SMS is paramount to running a good business.
