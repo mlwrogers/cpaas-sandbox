@@ -16,6 +16,10 @@
 13. Get Dark side working properly. This just does the current page.
 Prefer to view this page from the dark side?
 
+14. JaaS how to enable feedback is excluded from Nav.  needs finishing.
+
+15. Automation sms auto-reply is excluded from Nav.  needs finishing.
+
 <button class="btn js-toggle-dark-mode">Move to the dark side</button>
 
 <script>

@@ -28,4 +28,4 @@ Wacth this short demonstration of how Video Interaction can be used for remote f
 
 This demonstration first uses our SMS API to have a 2-way conversation between a support person and a customer, before escalating that conversation to a video Interaction!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UEquv26Kkuk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Fq2rSM4i3w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
