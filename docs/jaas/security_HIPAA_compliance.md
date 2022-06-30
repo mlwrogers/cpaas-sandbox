@@ -15,6 +15,6 @@ JaaS is also GDPR compliant.
 
 Further legal and security documentation can be checked here:
 
-* [8x8 CPaaS Service Terms](8x8.com/cpaas-order-terms/cpaas-service-terms) — _Section 6. DATA PROTECTION AND SECURITY._
-* [8x8 CPaaS Service Module – Jitsi-as-a-Service](8x8.com/cpaas-order-terms/jaas-module)
+* [8x8 CPaaS Service Terms](https://8x8.com/cpaas-order-terms/cpaas-service-terms) — _Section 6. DATA PROTECTION AND SECURITY._
+* [8x8 CPaaS Service Module – Jitsi-as-a-Service](https://8x8.com/cpaas-order-terms/jaas-module)
 * [8x8 API Security](https://www.8x8.com/products/apis/security)

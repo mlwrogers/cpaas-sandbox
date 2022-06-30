@@ -64,8 +64,8 @@ In addition to the call encryption available in Jitsi itself we also have plenty
 * [8x8 Privacy Policy:](https://www.8x8.com/terms-and-conditions/privacy-policy)
 * [8x8 Security site:](https://www.8x8.com/why-8x8/security)
 
-* [8x8 CPaaS Service Terms](8x8.com/cpaas-order-terms/cpaas-service-terms) — _Section 6. DATA PROTECTION AND SECURITY._
-* [8x8 CPaaS Service Module – Jitsi-as-a-Service](8x8.com/cpaas-order-terms/jaas-module)
+* [8x8 CPaaS Service Terms](https://8x8.com/cpaas-order-terms/cpaas-service-terms) — _Section 6. DATA PROTECTION AND SECURITY._
+* [8x8 CPaaS Service Module – Jitsi-as-a-Service](https://8x8.com/cpaas-order-terms/jaas-module)
 * [8x8 API Security](https://www.8x8.com/products/apis/security)
 
 * [JaaS FaQ’s](https://developer.8x8.com/jaas/docs/faq)
