@@ -16,9 +16,9 @@ Recording can be initiated by the moderator (with recording permissions set in t
 Call recording files are temporarily stored in the 8x8 cloud for 24 hours and can be retrieved via a link available in the UI and/or delivered via a Webhook event (data retention period is 24 hours).
 Alternatively users can select to store via Dropbox, only if enabled.
 
-**To retrieve via webhook** At the end of a call, when the recording stops, JaaS uses the _RECORDING_ENDED_ webhook event to pass you the details for the call recording, including a preAuthenicatedLink to the location of that file to eanble you to downloaded it.
+**To retrieve via webhook** At the end of a call, when the recording stops, JaaS uses the _RECORDING_ENDED_ and _RECORDING_UPLOADED_ webhook events to pass you the details for the call recording, including a preAuthenicatedLink to the location of that file to eanble you to downloaded it.
 
-Learn more about the [RECORDING_ENDED webhook here](https://developer.8x8.com/jaas/docs/webhooks-payload#recording_ended)
+Learn more about the [RECORDING_ENDED and RECORDING_UPLOADED webhooks here](https://developer.8x8.com/jaas/docs/webhooks-payload#recording_ended)
 
 Once downloaded you can store the call recording within your own data storage, for as long as you like.  
 
