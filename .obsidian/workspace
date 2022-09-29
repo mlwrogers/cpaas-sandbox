@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/basics/connect_createAccount.md",
+            "file": "docs/tests/scribeTest.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/basics/connect_createAccount.md",
+                "file": "docs/tests/scribeTest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/basics/connect_createAccount.md",
+                "file": "docs/tests/scribeTest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/basics/connect_createAccount.md"
+                "file": "docs/tests/scribeTest.md"
               }
             }
           }
@@ -131,10 +131,10 @@
   "active": "b1b230178a88f08b",
   "lastOpenFiles": [
     "docs/basics/basics.md",
+    "docs/basics/connect_createAccount.md",
     "docs/basics/apiKey.md",
     "docs/basics/accountid.md",
     "cpaas-wiki/image_assets/connect/01-signUp.png.md",
-    "docs/basics/connect_createAccount.md",
     "image_assets/connect/01-signUp.png",
     "image_assets/connect/03-signUpEmail.png",
     "image_assets/connect/02-signUp.png",
