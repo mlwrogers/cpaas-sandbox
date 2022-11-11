@@ -3,7 +3,7 @@ layout: default
 title: Where to go for CPaaS support
 has_children: false
 parent: The Basics
-nav_order: 1
+nav_order: 6
 ---
 
 # Where to go for CPaaS support
