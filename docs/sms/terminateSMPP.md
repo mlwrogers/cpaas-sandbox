@@ -1,7 +1,6 @@
 ---
 layout: default
 title: How to connect with SMPP.
-parent: SMS
 parent: How-to's and Examples
 grand_parent: SMS
 ---

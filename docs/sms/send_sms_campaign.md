@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Send an SMS campaign (bulk SMS)
-parent: SMS
+title: Send SMS campaign (bulk SMS)
 parent: How-to's and Examples
 grand_parent: SMS
 ---
