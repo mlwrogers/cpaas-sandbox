@@ -16,3 +16,5 @@ We have a couple pages especially for you.
 [Send an SMS using the Connect Portal](https://mlwrogers.github.io/cpaas-wiki/docs/sms/send_single_outbound_sms_connect/)
 
 [Send an SMS using the API.](https://mlwrogers.github.io/cpaas-wiki/docs/sms/send_single_outbound_sms/)
+
+[Create an SMS campaign (bulk SMS) using the Connect Portal](https://mlwrogers.github.io/cpaas-wiki/docs/sms/send_sms_campaign/)

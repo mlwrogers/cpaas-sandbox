@@ -1,12 +1,12 @@
 ---
 layout: default
-title: How do i create my Connect account?
+title: How do i create a Connect account?
 nav_order: 1
 parent: What is Connect?
 grand_parent: The Basics
 ---
 
-## How do i create my Connect account?
+## How do i create a Connect account?
 
 1. Open up browser and navigate to the 8x8 Connect website: https://connect.8x8.com/login/signup
 2. Sign up using your preferred email address.  
