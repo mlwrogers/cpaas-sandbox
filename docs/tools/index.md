@@ -6,4 +6,4 @@ has_children: true
 permalink: /docs/tools
 ---
 
-# All the tools
+## All the tools

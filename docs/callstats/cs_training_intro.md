@@ -6,7 +6,7 @@ grand_parent: callstats
 nav_order: 1
 ---
 
-# Introduction to callstats.io
+## Introduction to callstats.io
 
 Introduces the Dashboard home which includes a wallboard that illuminates quality-related issues in real-time.
 

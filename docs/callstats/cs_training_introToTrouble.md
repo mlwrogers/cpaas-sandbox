@@ -6,7 +6,7 @@ grand_parent: callstats
 nav_order: 2
 ---
 
-# Introduction to Troubleshooting
+## Introduction to Troubleshooting
 
 Provides a six-step general methodology that can be used when first attempting to troubleshoot using callstats.
 

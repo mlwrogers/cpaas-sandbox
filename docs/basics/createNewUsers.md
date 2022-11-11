@@ -6,7 +6,7 @@ parent: What is Connect?
 grand_parent: The Basics
 ---
 
-# How to add extra users in you Connect account.  
+## How to add extra users in you Connect account.  
 
 Assuming you have you already signed up for a free Connect account [here.](https://connect.8x8.com/login/signup) then watch this short video on how to create extra users and set their permissions.
 

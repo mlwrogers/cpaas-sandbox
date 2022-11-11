@@ -6,7 +6,7 @@ parent: The Basics
 nav_order: 1
 ---
 
-# Connect, the gateway to 8x8 CPaaS.
+## Connect, the gateway to 8x8 CPaaS.
 
 The Connect web portal is the gateway to 8x8 CPaaS, use it to administer your CPaaS products as well as an easy to use GUI for sending individual or bulk SMS and chatApps (like WhatsApp) messages if you don't want to use an API.
 

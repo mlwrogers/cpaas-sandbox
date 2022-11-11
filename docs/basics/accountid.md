@@ -6,7 +6,7 @@ parent: What is Connect?
 grand_parent: The Basics
 ---
 
-# Where to find your 8x8 Account ID and/or Sub Account ID  
+## Where to find your 8x8 Account ID and/or Sub Account ID  
 
 Assuming you have you already signed up for a free Connect account [here.](https://connect.8x8.com/login/signup) then watch this short video on where to find your 8x8 Account ID and/or any of your configured Sub Account IDs.
 

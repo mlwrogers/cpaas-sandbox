@@ -6,7 +6,7 @@ parent: How-to's and Examples
 grand_parent: SMS
 ---
 
-# Send a batch of SMS with different content
+## Send a batch of SMS with different content
 
 Here is a complete example of a cURL request to send a batch of SMS to multiple destinations each with it's own message.
 

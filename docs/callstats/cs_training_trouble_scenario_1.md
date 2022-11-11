@@ -6,7 +6,7 @@ grand_parent: callstats
 nav_order: 3
 ---
 
-# Scenario 1: Call Failed, Multiple rejoins (churn)
+## Scenario 1: Call Failed, Multiple rejoins (churn)
 
 Highlights a call with failed multiple times and required several rejoins. Media Configuration Errors and media error subtypes are covered.
 

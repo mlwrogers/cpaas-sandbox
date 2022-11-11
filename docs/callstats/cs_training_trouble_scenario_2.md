@@ -6,7 +6,7 @@ grand_parent: callstats
 nav_order: 4
 ---
 
-# Connection & Call Quality Issues
+## Connection & Call Quality Issues
 
 Highlights a call that took a long time to set up and participants had to rejoin. Troubleshooting involves Delay, Latency, and Jitter when using a VPN network.
 

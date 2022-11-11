@@ -6,6 +6,6 @@ has_children: true
 permalink: /docs/callstats
 ---
 
-# callstats.io
+## callstats.io
 
 callstats.io provides deep insights into your WebRTC call quality to enable first class voice and video communications!

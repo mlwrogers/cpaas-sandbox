@@ -4,7 +4,7 @@ title: Customer Care WhatsApp Service
 parent: ChatApps
 ---
 
-# Customer Care WhatsApp Service
+## Customer Care WhatsApp Service
 
 Credit: Contributed by [Filipe Leitao.](https://github.com/fleitao/)
 {: .fs-2 }

@@ -5,7 +5,7 @@ parent: The Basics
 nav_order: 4
 ---
 
-# What is Callstats?
+## What is Callstats?
 
 With [callstats.io](https://www.callstats.io/) you can monitor and analyze voice and video communications to deliver better user experiences from one simple dashboard.
 

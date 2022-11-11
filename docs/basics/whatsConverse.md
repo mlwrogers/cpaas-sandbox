@@ -6,7 +6,7 @@ has_children: Yes
 nav_order: 2
 ---
 
-# 8x8 Converse, customer conversations made simple.
+## 8x8 Converse, customer conversations made simple.
 
 8x8 Converse is a chat-based customer service platform that supports all the Chat Apps channels out of the box!  
 Engage with your customers over SMS, WhatsApp, Viber, WeChat, Zalo and more, easily and instantly.

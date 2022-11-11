@@ -5,7 +5,7 @@ parent: The Basics
 nav_order: 5
 ---
 
-# What is Jitsi As A Service, JaaS for short.
+## What is Jitsi As A Service, JaaS for short.
 
 Jitsi As A Service (JaaS) is a fully managed hosted enterprise-ready version of Jitsi and it’s components.
 

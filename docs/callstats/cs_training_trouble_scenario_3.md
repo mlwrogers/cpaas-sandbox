@@ -6,7 +6,7 @@ grand_parent: callstats
 nav_order: 5
 ---
 
-# Troubleshoot Connectivity Issues
+## Troubleshoot Connectivity Issues
 
 Highlights an issue reported by an end-user, we walkthrough what might be causing the underlying connectivity issue.
 

@@ -14,7 +14,7 @@ permalink: /docs/jaas
     alt="Jitsi As A Service">
 &nbsp;
 
-# Jitsi As A Service (JaaS)
+## Jitsi As A Service (JaaS)
 
 Lets learn some JaaS! 🎷
 

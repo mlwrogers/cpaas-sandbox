@@ -6,7 +6,7 @@ has_children: true
 permalink: /docs/basics
 ---
 
-# The Basics
+## The Basics
 
 Lets get started!
 

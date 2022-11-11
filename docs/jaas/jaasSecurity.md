@@ -6,7 +6,7 @@ nav_order: 4
 parent: JaaS
 ---
 
-# JaaS Security and Compliance
+## JaaS Security and Compliance
 
 We know that security is important to all our customers, big and small.  Jitsi as a Service is a high security, reliable and compliant video platform as a service which is powered by one of, if not the, most respected and secure open source Video solutions, [8x8 Jitsi](https://jitsi.org/).  We ensure that all calls and any content (call recording, chat messages) shared between users is not at risk of public exposure.
 

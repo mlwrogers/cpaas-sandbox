@@ -6,7 +6,7 @@ has_children: true
 nav_order: 1
 ---
 
-# callstats.io Pricing
+## callstats.io Pricing
 
 Our Self Service pricing is available at [https://dashboard.callstats.io/pricing](https://dashboard.callstats.io/pricing).  Make sure to toggle "Monthly" to see all the pricing options.
 

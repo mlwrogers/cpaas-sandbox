@@ -5,17 +5,17 @@ parent: ChatApps
 nav_order: 1
 ---
 
-# How to link into WhatsApp
+## How to link into WhatsApp
 
 Universal links are the preferred method of linking to a WhatsApp account, this is officially documented by WhatsApp [here.](https://faq.whatsapp.com/iphone/how-to-link-to-whatsapp-from-a-different-app/?lang=en)
 
-## See It In Action
+### See It In Action
 
 Dive right in and watch this 30 second demonstration on how to initiate a WhatsApp conversation with your customers via a QR code before getting to the details and trying it out for yourself!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AtxO74GRW8o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# The basics
+## The basics
 
 The base structure for these links is extremely simple to use: `https://wa.me/<whatsappphonenumber>` where `<whatsappphonenumber>` is the full phone number, in international format, of _your_ WhatsApp business account.  i.e. The destination account that the message will be sent to.
 
@@ -26,7 +26,7 @@ _Note: The pre-filled text must be url-encoded text.  There are many 3rd party t
 
 These links can obviously be used in any number of places or hidden behind simple website buttons.  Here are a few working examples which will open up your own WhatsApp account ready to send a message to a specific WhatsApp business contact with a pre-composed message.  
 
-## Buttons
+### Buttons
 
 A quick and easy way to use universal links from your website is to just make a few simple buttons.  You can use multiple links so as to have different pre-filled messages depending on the context, i.e. Support vs Sales vs Returns.
 **Try it out!**
@@ -61,7 +61,7 @@ The text is url-encoded and the final link used behind this button looks like th
 https://wa.me/639216812646?text=Hi%208x8%20team%2C%20I%20need%20some%20technical%20assistance%20%F0%9F%9B%A0%EF%B8%8F%20.%20Please%20can%20you%20help%20me%3F%20%F0%9F%99%8F
 ```
 
-## QR Codes
+### QR Codes
 
 Another great way to help customers initiate conversations with your business via WhatsApp is by using QR codes.  The great thing about a QR code is that you can make a single QR image work for both desktop and mobile users.  As the majority of people use WhatsApp only on their mobile device, if they're viewing your QR code on their desktop/laptop computer they can simply scan it with their mobile phone camera! If they are viewing the QR code on the mobile itself, you can make the QR image clickable and invoke the same user experience.
 **Try it out!**

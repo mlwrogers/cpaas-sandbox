@@ -5,7 +5,7 @@ parent: How-to's and Examples
 grand_parent: SMS
 ---
 
-# Send a single SMS using the API
+## Send a single SMS using the API
 
 Here is a quick example of how to send to a single SMS straight from your bash/terminal using cURL.
 

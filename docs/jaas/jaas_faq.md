@@ -6,6 +6,6 @@ nav_order: 6
 parent: JaaS
 ---
 
-# JaaS FAQ
+## JaaS FAQ
 
 Here you can some of the most commonly asked questions about JaaS.

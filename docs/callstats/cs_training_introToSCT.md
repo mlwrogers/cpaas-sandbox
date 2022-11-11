@@ -6,7 +6,7 @@ grand_parent: callstats
 nav_order: 6
 ---
 
-# Introduction to Smart Connectivity Tests (SCT)
+## Introduction to Smart Connectivity Tests (SCT)
 
 Introduces how smart connectivities work and what the dashboard shows.
 

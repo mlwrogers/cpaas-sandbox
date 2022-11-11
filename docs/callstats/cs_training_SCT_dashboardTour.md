@@ -6,7 +6,7 @@ grand_parent: callstats
 nav_order: 7
 ---
 
-# Smart Connectivity Tests (SCT) Dashboard Tour
+## Smart Connectivity Tests (SCT) Dashboard Tour
 
 Provides a step by step interface tour of the the SCT dashboard
 

@@ -5,7 +5,7 @@ parent: ChatApps
 ---
 **_DRAFT_**
 
-# How to link into Viber
+## How to link into Viber
 
 Universal links are the preferred method of linking to a Viber account, this is officially documented by Viber here. [placeholder]()
 

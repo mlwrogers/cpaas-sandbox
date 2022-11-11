@@ -6,7 +6,7 @@ parent: How-to's and Examples
 grand_parent: SMS
 ---
 
-# Send a batch of SMS using a template (_compact_ method)
+## Send a batch of SMS using a template (_compact_ method)
 
 Here is a complete example of an API request you can make straight from your bash/terminal to send a batch of SMS to multiple destinations using a single message template.
 Note: In addition to adding your own real destination numbers, you will need to replace _<yourSubAccountId>_ and _<yourApiToken>_ with the correct values from your 8x8 Connect account.

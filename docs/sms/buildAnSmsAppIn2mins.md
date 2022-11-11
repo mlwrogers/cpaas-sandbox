@@ -5,7 +5,7 @@ parent: How-to's and Examples
 grand_parent: SMS
 ---
 
-# A 2-way SMS app in less than 2 mins!
+## A 2-way SMS app in less than 2 mins!
 
 📘 Credit: Contributed by [Filipe Leitao.](https://github.com/fleitao/)
 {: .fs-2 }

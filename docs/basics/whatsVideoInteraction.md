@@ -5,7 +5,7 @@ parent: The Basics
 nav_order: 3
 ---
 
-# Video Interaction
+## Video Interaction
 
 8x8 Video Interaction product (Vi) is an enterprise tool designed to elevate customer engagement. It focuses on the one-to-one interactions through an out-of-the-box solution.
 
