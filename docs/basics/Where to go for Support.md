@@ -23,7 +23,7 @@ If you are already on a paid JaaS plan, you can also contact our support team vi
 
 The most efficient way to contact our dedicated CPaaS support team is to use the "Support" menu item from within the [Connect Portal](https://connect.8x8.com/login/)
 
-![JaaS_contactSupport](/cpaas-wiki/image_assets/connect/Connect_contactSupport.jpg)
+![connect_contactSupport](/cpaas-wiki/image_assets/connect/Connect_contactSupport.png)
 
 If you are already fully onboarded by our CPaaS team, you can also contact support via email: [cpaas-support@8x8.com](mailto:cpaas-support@8x8.com)
 
