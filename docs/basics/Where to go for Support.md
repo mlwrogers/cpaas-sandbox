@@ -8,6 +8,7 @@ nav_order: 6
 
 ## Where to go for CPaaS support
 
+For all your supports needs we have two dedicated support teams, one for Jitsi As A Service (JaaS) and one for all our other CPaaS products.
 
 ### Jitsi As A Service (JaaS) support
 
