@@ -5,7 +5,7 @@ parent: How-to's and Examples
 grand_parent: SMS
 ---
 
-## How to creeate and send an SMS campaign (bulk SMS)
+## How to create and send an SMS campaign (bulk SMS)
 
 Here's a short video to demonstrate how to use Connect to create an outbound SMS campaign.
 
