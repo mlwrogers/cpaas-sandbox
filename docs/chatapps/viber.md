@@ -32,13 +32,3 @@ _Note: for more information about 8x8 Converse, take a look at the overview at t
 **Try Me**👇
 
 [Converse](viber://chat?service=19459){: .btn .btn-purple }
-
-**Try Me with Text**👇
-
-[Converse](viber://chat?service=19459&text=8x8andviber){: .btn .btn-purple }
-
-```js
-// The pre-filled message used to initiate this interaction is: "Hi 8x8 team, I'd love to chat with someone about your APIs to help boost my customer engagement! 🚀 "
-// The text is url-encoded and the final link used behind this button looks like this:
-"link placeholder"
-```
