@@ -18,13 +18,9 @@ SSO is only available to enterprise customers. If you want to check your account
 1.  Login to the 8x8 Connect portal with an admin role https://connect.8x8.com/
 
 2.  Select ‘Users’ from the main menu on the left, or click the upper-right gear icon and select “User management”
-
 ![UserManagement](/cpaas-wiki/image_assets/connect/UserManagement.png)
-
 3.  Once inside the user management page, click the “Configure Single Sign-On” button, located top right.. 
-
 ![UsersButton](/cpaas-wiki/image_assets/connect/UsersButton.png)
-
 4.  The SSO configuration page will appear, where you will need to complete the required information.  
 
 You will need to copy the URL we have generated and paste it into your SSO identify providers' configuration.
@@ -63,13 +59,13 @@ The URL itself is the Identity provider URL while an XML key called entityID is 
 
 9.  Once all config fields in the 8x8 Connect SSO configuration have been completed, click “Save”   
 
-![OktaComplete](/cpaas-wiki/image_assets/connect/OktaComplete.png)
+![SsoComplete](/cpaas-wiki/image_assets/connect/SsoComplete.png)
 
 10.  Log out of the customer portal and now try to log in using SSO.
 
 ![LoginWithSso](/cpaas-wiki/image_assets/connect/LoginWithSso.png)
 
-### Notes when using SSO:
+### 📘  Notes when using SSO:
 
 By default, all users without “admin”(administrator) access will be forced to log in via SSO once it is configured. Users with “admin” access, they can choose to use the normal login using a username/password combination or via SSO.
 
