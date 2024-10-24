@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Viber
+title: How to link into Viber
 parent: ChatApps
 nav_order: 2
 ---
@@ -15,13 +15,13 @@ The base structure for these links is extremely simple to use as outlined below.
 viber://chat?service=xxx
 Where xxx is serviceId of the Viber business account from Viber portal
 
-For Example: viber://chat?service=19459 (opens a direct chat)
+[For Example: viber://chat?service=19459 (opens a direct chat)](viber://chat?service=19459)
 
 **To open a Viber business profile page:**
 viber://ca/info?id=yyy
 Where yyy is the business ID
 
-For example: viber://ca/info?id=4422 (opens business profile)
+[For example: viber://ca/info?id=4422 (opens business profile)](viber://ca/info?id=4422)
 
 ## Buttons
 
